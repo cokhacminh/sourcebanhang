@@ -1,0 +1,2 @@
+[06-May-2018 23:42:19 Asia/Saigon] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/pspell.so' - libaspell.so.15: cannot map zero-fill pages: Cannot allocate memory in Unknown on line 0
+[14-May-2018 08:55:59 Asia/Saigon] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imap.so' - libaudit.so.1: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0

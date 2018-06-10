@@ -1,0 +1,77 @@
+14:32:47 - 07/03/2018 : Vi Nguyễn đã nhập thêm 177 sản phẩm SS07M vào kho.
+14:33:05 - 07/03/2018 : Vi Nguyễn đã nhập thêm 334 sản phẩm SS07L vào kho.
+14:33:21 - 07/03/2018 : Vi Nguyễn đã nhập thêm 271 sản phẩm SS07XL vào kho.
+14:33:36 - 07/03/2018 : Vi Nguyễn đã nhập thêm 163 sản phẩm SS07S vào kho.
+14:34:04 - 07/03/2018 : Vi Nguyễn đã nhập thêm 541 sản phẩm XM06 L vào kho.
+14:34:16 - 07/03/2018 : Vi Nguyễn đã nhập thêm 245 sản phẩm XM06 L vào kho.
+14:35:02 - 07/03/2018 : Vi Nguyễn đã nhập thêm 245 sản phẩm XM06 M vào kho.
+14:35:20 - 07/03/2018 : Vi Nguyễn đã nhập thêm 382 sản phẩm XM06 S vào kho.
+14:35:54 - 07/03/2018 : Vi Nguyễn đã nhập thêm 183 sản phẩm TX15 L vào kho.
+14:36:40 - 07/03/2018 : Vi Nguyễn đã nhập thêm 260 sản phẩm XM14 L vào kho.
+14:36:51 - 07/03/2018 : Vi Nguyễn đã nhập thêm 96 sản phẩm XM14 M vào kho.
+14:37:07 - 07/03/2018 : Vi Nguyễn đã nhập thêm 263 sản phẩm XM14 S vào kho.
+14:37:23 - 07/03/2018 : Vi Nguyễn đã nhập thêm 45 sản phẩm XM14 XL vào kho.
+14:38:20 - 07/03/2018 : Vi Nguyễn đã nhập thêm 355 sản phẩm CA04M vào kho.
+14:38:35 - 07/03/2018 : Vi Nguyễn đã nhập thêm 210 sản phẩm CA04S vào kho.
+14:38:56 - 07/03/2018 : Vi Nguyễn đã nhập thêm 313 sản phẩm CA04XL vào kho.
+14:39:58 - 07/03/2018 : Vi Nguyễn đã nhập thêm 120 sản phẩm SS22L vào kho.
+14:41:28 - 07/03/2018 : Vi Nguyễn đã nhập thêm 16 sản phẩm SS22M vào kho.
+14:41:42 - 07/03/2018 : Vi Nguyễn đã nhập thêm 11 sản phẩm SS22S vào kho.
+14:42:33 - 07/03/2018 : Vi Nguyễn đã nhập thêm 437 sản phẩm SS209L vào kho.
+14:42:47 - 07/03/2018 : Vi Nguyễn đã nhập thêm 333 sản phẩm SS209M vào kho.
+14:43:03 - 07/03/2018 : Vi Nguyễn đã nhập thêm 300 sản phẩm SS209S vào kho.
+14:44:45 - 07/03/2018 : Vi Nguyễn đã nhập thêm 23 sản phẩm XM11 L vào kho.
+14:44:53 - 07/03/2018 : Vi Nguyễn đã nhập thêm 1 sản phẩm XM11 M vào kho.
+14:45:01 - 07/03/2018 : Vi Nguyễn đã nhập thêm 1 sản phẩm XM11 S vào kho.
+14:45:40 - 07/03/2018 : Vi Nguyễn đã nhập thêm 274 sản phẩm XM15 L vào kho.
+14:45:53 - 07/03/2018 : Vi Nguyễn đã nhập thêm 307 sản phẩm XM15 M vào kho.
+14:46:07 - 07/03/2018 : Vi Nguyễn đã nhập thêm 453 sản phẩm XM15 S vào kho.
+14:46:23 - 07/03/2018 : Vi Nguyễn đã nhập thêm 130 sản phẩm XM15 XL vào kho.
+14:46:54 - 07/03/2018 : Vi Nguyễn đã nhập thêm 283 sản phẩm TN05 L vào kho.
+14:47:10 - 07/03/2018 : Vi Nguyễn đã nhập thêm 69 sản phẩm TN05 M vào kho.
+14:47:23 - 07/03/2018 : Vi Nguyễn đã nhập thêm 44 sản phẩm TN05 S vào kho.
+14:48:13 - 07/03/2018 : Vi Nguyễn đã nhập thêm 3 sản phẩm TN04 L vào kho.
+14:48:27 - 07/03/2018 : Vi Nguyễn đã nhập thêm 75 sản phẩm TN04 M vào kho.
+14:48:41 - 07/03/2018 : Vi Nguyễn đã nhập thêm 172 sản phẩm TN04 S vào kho.
+14:49:27 - 07/03/2018 : Vi Nguyễn đã nhập thêm 642 sản phẩm SS101M vào kho.
+14:50:10 - 07/03/2018 : Vi Nguyễn đã nhập thêm 127 sản phẩm SS204L vào kho.
+14:50:27 - 07/03/2018 : Vi Nguyễn đã nhập thêm 110 sản phẩm SS204M vào kho.
+14:50:37 - 07/03/2018 : Vi Nguyễn đã nhập thêm 303 sản phẩm SS204S vào kho.
+14:51:07 - 07/03/2018 : Vi Nguyễn đã nhập thêm 238 sản phẩm TN03L vào kho.
+14:51:21 - 07/03/2018 : Vi Nguyễn đã nhập thêm 259 sản phẩm TN03M vào kho.
+14:51:34 - 07/03/2018 : Vi Nguyễn đã nhập thêm 144 sản phẩm TN03S vào kho.
+14:51:48 - 07/03/2018 : Vi Nguyễn đã nhập thêm 35 sản phẩm TN03XL vào kho.
+14:52:32 - 07/03/2018 : Vi Nguyễn đã nhập thêm 146 sản phẩm SS18L vào kho.
+14:52:45 - 07/03/2018 : Vi Nguyễn đã nhập thêm 236 sản phẩm SS18M vào kho.
+14:53:01 - 07/03/2018 : Vi Nguyễn đã nhập thêm 59 sản phẩm SS18S vào kho.
+14:53:51 - 07/03/2018 : Vi Nguyễn đã nhập thêm 263 sản phẩm SS16L vào kho.
+14:54:02 - 07/03/2018 : Vi Nguyễn đã nhập thêm 11 sản phẩm SS16M vào kho.
+14:54:16 - 07/03/2018 : Vi Nguyễn đã nhập thêm 170 sản phẩm SS16S vào kho.
+14:55:03 - 07/03/2018 : Vi Nguyễn đã nhập thêm 564 sản phẩm SS203L vào kho.
+14:55:14 - 07/03/2018 : Vi Nguyễn đã nhập thêm 328 sản phẩm SS203M vào kho.
+14:55:26 - 07/03/2018 : Vi Nguyễn đã nhập thêm 236 sản phẩm SS203S vào kho.
+14:55:51 - 07/03/2018 : Vi Nguyễn đã nhập thêm 557 sản phẩm XM12L vào kho.
+14:56:05 - 07/03/2018 : Vi Nguyễn đã nhập thêm 240 sản phẩm XM12M vào kho.
+14:56:21 - 07/03/2018 : Vi Nguyễn đã nhập thêm 77 sản phẩm XM12XL vào kho.
+14:56:49 - 07/03/2018 : Vi Nguyễn đã nhập thêm 84 sản phẩm XM13 L vào kho.
+14:57:01 - 07/03/2018 : Vi Nguyễn đã nhập thêm 70 sản phẩm XM13 M vào kho.
+14:57:22 - 07/03/2018 : Vi Nguyễn đã nhập thêm 69 sản phẩm XM13 S vào kho.
+14:57:38 - 07/03/2018 : Vi Nguyễn đã nhập thêm 21 sản phẩm XM13 XL vào kho.
+14:58:16 - 07/03/2018 : Vi Nguyễn đã nhập thêm 282 sản phẩm TB25S vào kho.
+14:58:59 - 07/03/2018 : Vi Nguyễn đã nhập thêm 22 sản phẩm NC44 L vào kho.
+14:59:11 - 07/03/2018 : Vi Nguyễn đã nhập thêm 18 sản phẩm NC44 M vào kho.
+14:59:29 - 07/03/2018 : Vi Nguyễn đã nhập thêm 30 sản phẩm NC44 S vào kho.
+14:59:41 - 07/03/2018 : Vi Nguyễn đã nhập thêm 15 sản phẩm NC44 XL vào kho.
+15:00:17 - 07/03/2018 : Vi Nguyễn đã nhập thêm 433 sản phẩm NC41 L vào kho.
+15:00:29 - 07/03/2018 : Vi Nguyễn đã nhập thêm 305 sản phẩm NC41 M vào kho.
+15:00:42 - 07/03/2018 : Vi Nguyễn đã nhập thêm 107 sản phẩm NC41 S vào kho.
+15:00:54 - 07/03/2018 : Vi Nguyễn đã nhập thêm 222 sản phẩm NC41 XL vào kho.
+15:01:11 - 07/03/2018 : Vi Nguyễn đã nhập thêm 110 sản phẩm NC42 L vào kho.
+15:01:19 - 07/03/2018 : Vi Nguyễn đã nhập thêm 119 sản phẩm NC42 M vào kho.
+15:01:36 - 07/03/2018 : Vi Nguyễn đã nhập thêm 147 sản phẩm NC42 XL vào kho.
+15:02:28 - 07/03/2018 : Vi Nguyễn đã nhập thêm 154 sản phẩm SS15S vào kho.
+15:32:08 - 07/03/2018 : Vi Nguyễn đã nhập thêm 326 sản phẩm TX15 M vào kho.
+15:32:20 - 07/03/2018 : Vi Nguyễn đã nhập thêm 484 sản phẩm TX15 S vào kho.
+15:32:34 - 07/03/2018 : Vi Nguyễn đã nhập thêm 213 sản phẩm TX15 XL vào kho.
+15:35:55 - 07/03/2018 : Vi Nguyễn đã nhập thêm 7 sản phẩm XM11 S vào kho.
+15:36:29 - 07/03/2018 : Vi Nguyễn đã nhập thêm 1 sản phẩm XM11 M vào kho.

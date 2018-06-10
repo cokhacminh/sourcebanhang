@@ -1,0 +1,4 @@
+14:35:05 - 02/06/2018 : khacminh XOÁ DB03 size M SỐ LƯỢNG 27 ID : 222
+14:50:51 - 02/06/2018 : khacminh XOÁ SẢN PHẨM TX15 NHÓM SẢN PHẨM :  ID : 44
+14:51:25 - 02/06/2018 : khacminh XOÁ SẢN PHẨM SS07 NHÓM SẢN PHẨM :  ID : 40
+14:52:23 - 02/06/2018 : khacminh XOÁ SẢN PHẨM DB223 NHÓM SẢN PHẨM : 7 ID : 45

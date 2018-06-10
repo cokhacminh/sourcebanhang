@@ -1,0 +1,15 @@
+11:25:45 - 11/12/2017 : Bảo Châu Đã sửa tên nhóm Bảo Châu thành Bảo Châu - Mã vận đơn NC thành NC - Hotline  thành 0112233445.
+11:25:58 - 11/12/2017 : Khắc Minh Đã sửa tên nhóm Thời Trang S2 thành Thời Trang S2 - Mã vận đơn NC thành NC - Hotline  thành 0899160079.
+12:34:30 - 11/12/2017 : Minh Đã tạo nhóm Sales  KhacMinh - Mã vận đơn : KM - ID nhóm : #5.
+12:35:15 - 11/12/2017 : Minh Đã sửa tên nhóm KhacMinh thành KhacMinh - Mã vận đơn KM thành NC - Hotline  thành 0899160079.
+12:35:36 - 11/12/2017 : Minh Đã sửa tên nhóm KhacMinh thành KhacMinh - Mã vận đơn NC thành NC - Hotline  thành 0899160079.
+12:35:41 - 11/12/2017 : Minh Đã sửa tên nhóm KhacMinh thành KhacMinh - Mã vận đơn NC thành NC - Hotline  thành 0899160079.
+12:38:19 - 11/12/2017 : Minh Đã sửa tên nhóm KhacMinh thành KhacMinh - Mã vận đơn NC thành NC - Hotline  thành 0899160079.
+12:38:36 - 11/12/2017 : Minh Đã sửa tên nhóm KhacMinh thành KhacMinh - Mã vận đơn NC thành NC - Hotline  thành 0899160079.
+12:39:05 - 11/12/2017 : Minh Đã tạo nhóm Sales  KhacMinh - Mã vận đơn : KM - ID nhóm : #6.
+12:42:43 - 11/12/2017 : Minh Đã thêm nhân viên Bảo Châu vào nhóm KhacMinh.
+12:44:44 - 11/12/2017 : Minh Đã sửa tên nhóm KhacMinh thành KhacMinh - Mã vận đơn KM thành NC - Hotline  thành 0899160079.
+12:44:50 - 11/12/2017 : Minh Đã sửa tên nhóm KhacMinh thành KhacMinh - Mã vận đơn NC thành NC - Hotline  thành 0899160079.
+12:58:11 - 11/12/2017 : Bảo Châu Đã tạo nhóm Sales  BaoChau - Mã vận đơn : NC - ID nhóm : #7.
+12:58:15 - 11/12/2017 : Bảo Châu Đã thêm nhân viên Vũ Lệ vào nhóm BaoChau.
+13:00:04 - 11/12/2017 : Bảo Châu Đã sửa tên nhóm BaoChau thành BaoChau - Mã vận đơn NC thành NC - Hotline  thành 0899160079.

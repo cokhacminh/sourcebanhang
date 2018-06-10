@@ -1,0 +1,295 @@
+[26-May-2018 18:05:51 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:06 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:10 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:20 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:20 Asia/Ho_Chi_Minh] PHP Warning:  mkdir(): File exists in /home/lamde205/hethong.vn/function.php on line 165
+[26-May-2018 18:06:21 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:22 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:22 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:22 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:22 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:23 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:24 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:25 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:26 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:27 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:28 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:29 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:30 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:32 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:32 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:32 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:32 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:33 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:35 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:36 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:36 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:36 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:36 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:37 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:39 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:06:39 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:39 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[26-May-2018 18:06:39 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:35 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:40 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:45 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:45 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:45 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:45 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:45 Asia/Ho_Chi_Minh] PHP Warning:  mkdir(): File exists in /home/lamde205/hethong.vn/function.php on line 165
+[30-May-2018 08:20:46 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:48 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:48 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:48 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:48 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:50 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:51 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:51 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:53 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:53 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:53 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:53 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:54 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:55 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:55 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:55 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:55 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:56 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:56 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:56 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:56 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:57 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:58 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:58 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:59 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:59 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:59 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:20:59 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:00 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:00 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:00 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:00 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:01 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:01 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:01 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:01 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:02 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:02 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:02 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:02 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:03 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:03 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:03 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:03 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:05 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:05 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:07 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:07 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:07 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:07 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:09 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:09 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:09 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:09 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:10 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:10 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:10 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:10 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:11 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:11 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:13 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:13 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:14 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:14 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:14 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:14 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:15 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:15 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:17 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:17 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:17 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:17 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:19 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:19 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:19 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:19 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:21 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:21 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:24 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:24 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:25 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:25 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:26 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:27 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:27 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:28 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:29 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:30 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:30 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:31 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:31 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:33 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:33 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:34 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:35 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:35 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:36 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:36 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:36 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:36 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:37 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:38 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:38 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:38 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:38 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:39 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:39 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:39 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:39 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:40 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:40 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:40 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:40 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:42 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:42 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:44 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:45 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:45 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:45 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:45 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:46 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:46 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:48 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:48 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:48 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:48 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:49 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:49 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:49 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:49 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:50 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:50 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:52 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:52 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:54 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:54 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:55 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:21:55 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:55 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15
+[30-May-2018 08:21:55 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/carebill/ajax_donhang.php on line 15

@@ -1,0 +1,278 @@
+[28-Apr-2018 09:06:35 Asia/Saigon] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ldap.so' - libnssutil3.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-May-2018 05:39:07 UTC] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:22
+Stack trace:
+#0 /home/lamde205/hethong.vn/check_access.php(2): require_once()
+#1 /home/lamde205/hethong.vn/index.php(2): include('/home/lamde205/...')
+#2 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 22
+[26-May-2018 05:39:18 UTC] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:22
+Stack trace:
+#0 /home/lamde205/hethong.vn/check_access.php(2): require_once()
+#1 /home/lamde205/hethong.vn/index.php(2): include('/home/lamde205/...')
+#2 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 22
+[26-May-2018 05:41:25 UTC] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:22
+Stack trace:
+#0 /home/lamde205/hethong.vn/check_access.php(2): require_once()
+#1 /home/lamde205/hethong.vn/index.php(2): include('/home/lamde205/...')
+#2 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 22
+[26-May-2018 05:41:32 UTC] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:22
+Stack trace:
+#0 /home/lamde205/hethong.vn/check_access.php(2): require_once()
+#1 /home/lamde205/hethong.vn/index.php(2): include('/home/lamde205/...')
+#2 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 22
+[26-May-2018 05:41:48 UTC] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:22
+Stack trace:
+#0 /home/lamde205/hethong.vn/fake.php(2): include()
+#1 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 22
+[26-May-2018 05:42:23 UTC] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:22
+Stack trace:
+#0 /home/lamde205/hethong.vn/fake.php(2): include()
+#1 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 22
+[26-May-2018 05:42:24 UTC] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:22
+Stack trace:
+#0 /home/lamde205/hethong.vn/fake.php(2): include()
+#1 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 22
+[26-May-2018 05:42:25 UTC] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:22
+Stack trace:
+#0 /home/lamde205/hethong.vn/fake.php(2): include()
+#1 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 22
+[26-May-2018 05:42:25 UTC] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:22
+Stack trace:
+#0 /home/lamde205/hethong.vn/fake.php(2): include()
+#1 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 22
+[26-May-2018 05:42:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:7
+Stack trace:
+#0 /home/lamde205/hethong.vn/fake.php(2): include()
+#1 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:7
+Stack trace:
+#0 /home/lamde205/hethong.vn/fake.php(2): include()
+#1 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:7
+Stack trace:
+#0 /home/lamde205/hethong.vn/fake.php(2): include()
+#1 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/lamde205/hethong.vn/db.php:7
+Stack trace:
+#0 /home/lamde205/hethong.vn/fake.php(4): include()
+#1 {main}
+  thrown in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 05:44:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 10
+[26-May-2018 05:44:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 05:44:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 12:44:32 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lamde205/hethong.vn/fake.php:4) in /home/lamde205/hethong.vn/fake.php on line 101
+[26-May-2018 12:44:32 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lamde205/hethong.vn/fake.php:4) in /home/lamde205/hethong.vn/fake.php on line 102
+[26-May-2018 05:44:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 05:44:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 12:44:56 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lamde205/hethong.vn/fake.php:4) in /home/lamde205/hethong.vn/fake.php on line 101
+[26-May-2018 12:44:56 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lamde205/hethong.vn/fake.php:4) in /home/lamde205/hethong.vn/fake.php on line 102
+[26-May-2018 05:44:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 05:45:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 05:45:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 12:45:20 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[26-May-2018 09:24:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 09:24:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 09:24:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 16:24:27 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[26-May-2018 10:01:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 10:01:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 10:21:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 10:21:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 17:21:42 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:44 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 10:21:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 10:21:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 17:21:48 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/banhang.php on line 233
+[26-May-2018 17:21:48 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/banhang.php on line 233
+[26-May-2018 17:21:48 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/banhang.php on line 233
+[26-May-2018 17:21:50 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 17:21:52 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 17:21:55 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: avatar_nhanvien in /home/lamde205/hethong.vn/template/userbox.php on line 9
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fullname in /home/lamde205/hethong.vn/template/userbox.php on line 9
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: avatar_nhanvien in /home/lamde205/hethong.vn/template/userbox.php on line 9
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fullname in /home/lamde205/hethong.vn/template/userbox.php on line 12
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: group in /home/lamde205/hethong.vn/template/userbox.php on line 13
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/template/userbox.php on line 23
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/template/userbox.php on line 31
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/template/userbox.php on line 41
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/template/userbox.php on line 51
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/template/userbox.php on line 62
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/menuleft.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/menuleft.php on line 69
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id_nhanvien in /home/lamde205/hethong.vn/donchuagiao.php on line 149
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 17:21:57 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[26-May-2018 10:22:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 11:05:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 11:05:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 11:05:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 18:05:41 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[26-May-2018 13:35:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 14:39:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 14:46:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[26-May-2018 23:56:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[27-May-2018 01:53:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[27-May-2018 01:53:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[27-May-2018 06:47:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[27-May-2018 08:47:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[27-May-2018 19:17:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[27-May-2018 22:29:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 12:32:12 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 05:32:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 05:32:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 12:32:19 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lamde205/hethong.vn/fake.php:4) in /home/lamde205/hethong.vn/fake.php on line 101
+[28-May-2018 12:32:19 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lamde205/hethong.vn/fake.php:4) in /home/lamde205/hethong.vn/fake.php on line 102
+[28-May-2018 05:32:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 05:32:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 05:32:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 12:32:41 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[28-May-2018 15:20:46 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 12:17:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 13:03:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 13:03:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 20:03:11 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[28-May-2018 13:23:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 13:23:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 20:23:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/banhang.php on line 233
+[28-May-2018 20:23:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/banhang.php on line 233
+[28-May-2018 20:23:20 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/banhang.php on line 233
+[28-May-2018 20:23:21 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 20:23:22 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: zlib_support in /home/lamde205/hethong.vn/db.php on line 7
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: avatar_nhanvien in /home/lamde205/hethong.vn/template/userbox.php on line 9
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fullname in /home/lamde205/hethong.vn/template/userbox.php on line 9
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: avatar_nhanvien in /home/lamde205/hethong.vn/template/userbox.php on line 9
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fullname in /home/lamde205/hethong.vn/template/userbox.php on line 12
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: group in /home/lamde205/hethong.vn/template/userbox.php on line 13
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/template/userbox.php on line 23
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/template/userbox.php on line 31
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/template/userbox.php on line 41
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/template/userbox.php on line 51
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/template/userbox.php on line 62
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/menuleft.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: quyenhan in /home/lamde205/hethong.vn/menuleft.php on line 69
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: id_nhanvien in /home/lamde205/hethong.vn/donchuagiao.php on line 149
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:23 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:25 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 19
+[28-May-2018 20:23:28 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 13:23:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[28-May-2018 20:45:10 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[29-May-2018 01:21:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[29-May-2018 08:21:03 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/finish_sell.php on line 20
+[29-May-2018 08:21:03 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 46
+[29-May-2018 23:57:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 01:20:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/confirm_payment.php on line 7
+[30-May-2018 08:20:18 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/lamde205/hethong.vn/function.php on line 46
+[30-May-2018 08:20:18 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/lamde205/hethong.vn/confirm_payment.php on line 224
+[30-May-2018 01:20:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 01:20:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 08:20:29 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[30-May-2018 06:07:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 07:05:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 10:48:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[30-May-2018 17:20:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[31-May-2018 06:25:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[31-May-2018 15:04:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[01-Jun-2018 01:00:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[01-Jun-2018 08:00:19 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[01-Jun-2018 01:00:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[01-Jun-2018 08:00:21 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[01-Jun-2018 05:32:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[01-Jun-2018 12:32:19 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[02-Jun-2018 03:01:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[02-Jun-2018 03:02:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[02-Jun-2018 10:02:00 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lamde205/hethong.vn/fake.php:4) in /home/lamde205/hethong.vn/fake.php on line 101
+[02-Jun-2018 10:02:00 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lamde205/hethong.vn/fake.php:4) in /home/lamde205/hethong.vn/fake.php on line 102
+[02-Jun-2018 03:02:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[02-Jun-2018 10:02:02 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[02-Jun-2018 03:02:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[02-Jun-2018 03:02:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[02-Jun-2018 10:02:10 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[02-Jun-2018 09:31:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[02-Jun-2018 09:31:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[02-Jun-2018 16:31:48 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[02-Jun-2018 16:31:49 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[02-Jun-2018 09:38:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[02-Jun-2018 16:38:03 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[02-Jun-2018 09:38:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[02-Jun-2018 16:38:38 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[03-Jun-2018 07:50:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[03-Jun-2018 14:50:50 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[03-Jun-2018 07:52:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[03-Jun-2018 14:52:57 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[03-Jun-2018 07:53:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[03-Jun-2018 14:53:10 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[03-Jun-2018 07:53:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[03-Jun-2018 14:53:14 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[03-Jun-2018 07:53:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[03-Jun-2018 07:53:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[03-Jun-2018 14:53:20 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113
+[03-Jun-2018 08:19:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/lamde205/hethong.vn/db.php on line 25
+[03-Jun-2018 15:19:02 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/lamde205/hethong.vn/index.php on line 113

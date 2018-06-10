@@ -1,0 +1,18 @@
+08:32:51 - 16/12/2017 : Thơm Nguyễn Đã sửa tên nhóm Thời Trang S2 thành Thời Trang S2 - Mã vận đơn SS thành SS - Hotline  thành 0902274979.
+08:52:42 - 16/12/2017 : Thơm Nguyễn Đã thêm nhân viên Thảo Lý vào nhóm Thời Trang S2.
+08:52:42 - 16/12/2017 : Thơm Nguyễn Đã thêm nhân viên Thùy Linh vào nhóm Thời Trang S2.
+08:52:42 - 16/12/2017 : Thơm Nguyễn Đã thêm nhân viên Huyền Nguyễn vào nhóm Thời Trang S2.
+08:52:42 - 16/12/2017 : Thơm Nguyễn Đã thêm nhân viên Nguyễn Hoan vào nhóm Thời Trang S2.
+08:52:42 - 16/12/2017 : Thơm Nguyễn Đã thêm nhân viên Hoài Trâm vào nhóm Thời Trang S2.
+08:52:42 - 16/12/2017 : Thơm Nguyễn Đã thêm nhân viên Hà Giang vào nhóm Thời Trang S2.
+12:42:23 - 16/12/2017 : Thảo Lý Đã tạo nhóm Sales  Nhí Nhố - Mã vận đơn : SS - ID nhóm : #10.
+12:42:33 - 16/12/2017 : Thơm Nguyễn Đã xóa Thùy Linh ra khỏi nhóm Thời Trang S2.
+12:42:37 - 16/12/2017 : Thơm Nguyễn Đã xóa Huyền Nguyễn ra khỏi nhóm Thời Trang S2.
+12:42:38 - 16/12/2017 : Thơm Nguyễn Đã xóa Hoài Trâm ra khỏi nhóm Thời Trang S2.
+12:42:41 - 16/12/2017 : Thơm Nguyễn Đã xóa Nguyễn Hoan ra khỏi nhóm Thời Trang S2.
+12:42:43 - 16/12/2017 : Thơm Nguyễn Đã xóa Hà Giang ra khỏi nhóm Thời Trang S2.
+12:42:56 - 16/12/2017 : Thảo Lý Đã thêm nhân viên Thùy Linh vào nhóm Nhí Nhố.
+12:42:56 - 16/12/2017 : Thảo Lý Đã thêm nhân viên Huyền Nguyễn vào nhóm Nhí Nhố.
+12:42:56 - 16/12/2017 : Thảo Lý Đã thêm nhân viên Nguyễn Hoan vào nhóm Nhí Nhố.
+12:42:56 - 16/12/2017 : Thảo Lý Đã thêm nhân viên Hoài Trâm vào nhóm Nhí Nhố.
+12:42:56 - 16/12/2017 : Thảo Lý Đã thêm nhân viên Hà Giang vào nhóm Nhí Nhố.

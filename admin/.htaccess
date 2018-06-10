@@ -1,0 +1,13 @@
+RewriteEngine on
+RewriteRule ^nhanvien$ users.php
+RewriteRule ^sanpham$ products.php
+RewriteRule ^khohang$ khohang.php
+RewriteRule ^thongkekhohang$ khohang_history.php
+RewriteRule ^donvigiaohang$ donvigiaohang.php
+RewriteRule ^khuvucgiaohang$ khuvucgiaohang.php
+RewriteRule ^nhacungcap$ nhacungcap.php
+RewriteRule ^phanloainhanvien$ usergroup.php
+RewriteRule ^thongke$ index.php
+RewriteRule ^api$ api.php
+RewriteRule ^tinhloinhuan$ tinhloinhuan.php
+RewriteRule ^tilehoan$ tilehoan.php

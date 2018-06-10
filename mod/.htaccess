@@ -1,0 +1,25 @@
+RewriteEngine on
+RewriteRule ^nhanvien$ users.php
+RewriteRule ^sanpham$ products.php
+RewriteRule ^danhsachsanpham$ products.php
+RewriteRule ^thongkekhohang$ khohang_history.php
+RewriteRule ^donvigiaohang$ donvigiaohang.php
+RewriteRule ^khuvucgiaohang$ khuvucgiaohang.php
+RewriteRule ^donhang$ donhangapi.php
+RewriteRule ^donthanhcong$ donthanhcong.php
+RewriteRule ^donthatbai$ donthatbai.php
+RewriteRule ^dondanggiao$ donchuagiao.php
+RewriteRule ^doisoat$ doisoat.php
+RewriteRule ^guihang$ guihang.php
+RewriteRule ^thongke$ index.php
+RewriteRule ^huongdan$ huongdan.php
+RewriteRule ^hangbanra$ hangbanra.php
+RewriteRule ^chiateam$ teamnhanvien.php
+RewriteRule ^xuatexcel$ xuatexcel.php
+RewriteRule ^dangapi$ dangapi.php
+RewriteRule ^checkloiapi$ check_api_loi.php
+RewriteRule ^listteam$ listteam.php
+RewriteRule ^chodoisoat$ chodoisoat.php
+RewriteRule ^hoanhang$ hoanhang.php
+RewriteRule ^thongkehanghoan$ lichsuhoanhang.php
+RewriteRule ^chamcong$ chamcong.php

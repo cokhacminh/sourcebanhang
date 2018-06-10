@@ -1,0 +1,57 @@
+18:08:03 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 68 sản phẩm XM15 S vào kho.
+18:08:16 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 29 sản phẩm CA4S vào kho.
+18:08:28 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 73 sản phẩm TN03S vào kho.
+18:09:36 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 29 sản phẩm SS16S vào kho.
+18:09:53 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 13 sản phẩm TN04S vào kho.
+18:10:07 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 6 sản phẩm CA5S vào kho.
+18:10:24 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 6 sản phẩm SS101S vào kho.
+18:11:38 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 128 sản phẩm TX15S vào kho.
+18:12:04 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 23 sản phẩm NC41 S vào kho.
+18:12:19 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 20 sản phẩm Nc44s vào kho.
+18:12:28 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 3 sản phẩm XM14 S vào kho.
+18:12:40 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 38 sản phẩm SS204S vào kho.
+18:12:51 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 226 sản phẩm SS18 vào kho.
+18:13:25 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 24 sản phẩm SS07S vào kho.
+18:13:39 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 25 sản phẩm XM06 S vào kho.
+18:14:05 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 12 sản phẩm TN05S vào kho.
+18:17:42 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 30 sản phẩm TN03M vào kho.
+18:17:57 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 5 sản phẩm TN05M vào kho.
+18:19:10 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 19 sản phẩm TN04M vào kho.
+18:19:50 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 71 sản phẩm CA4M vào kho.
+18:20:16 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 87 sản phẩm SS07M vào kho.
+18:20:36 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 84 sản phẩm XM06 M vào kho.
+18:21:19 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 66 sản phẩm SS204M vào kho.
+18:21:33 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 16 sản phẩm TX15M vào kho.
+18:21:41 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 70 sản phẩm XM12 M vào kho.
+18:22:08 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 17 sản phẩm XM13 M vào kho.
+18:22:18 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 24 sản phẩm SS101M vào kho.
+18:23:52 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 46 sản phẩm SS101L vào kho.
+18:24:04 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 39 sản phẩm CA4L vào kho.
+18:24:12 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 15 sản phẩm XM14 L vào kho.
+18:24:19 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 23 sản phẩm XM06 L vào kho.
+18:24:27 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 6 sản phẩm TN03L vào kho.
+18:24:42 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 3 sản phẩm SS203L vào kho.
+18:24:59 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 63 sản phẩm SS16L vào kho.
+18:25:21 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 59 sản phẩm XM12 L vào kho.
+18:25:37 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 15 sản phẩm SS07L vào kho.
+18:25:53 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 9 sản phẩm TX15L vào kho.
+18:26:09 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 13 sản phẩm SS18L vào kho.
+18:26:26 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 124 sản phẩm CA5L vào kho.
+18:27:36 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 57 sản phẩm TX19 L vào kho.
+18:27:54 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 92 sản phẩm XM15 L vào kho.
+18:30:15 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 55 sản phẩm CA5M vào kho.
+18:30:32 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 29 sản phẩm SS18M vào kho.
+18:31:14 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 208 sản phẩm XM14 M vào kho.
+18:32:03 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 16 sản phẩm CA4XL vào kho.
+18:32:22 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 5 sản phẩm TN03XL vào kho.
+18:33:19 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 72 sản phẩm SS07XL vào kho.
+18:33:33 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 24 sản phẩm TX15XL vào kho.
+18:33:50 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 31 sản phẩm XM15 XL vào kho.
+18:35:22 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 1 sản phẩm NC41 XL vào kho.
+18:36:21 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 18 sản phẩm XM14 XL vào kho.
+18:36:37 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 85 sản phẩm XM06 XL vào kho.
+18:37:01 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 12 sản phẩm NC42 XL vào kho.
+18:37:14 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 21 sản phẩm TN04XL vào kho.
+18:37:23 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 22 sản phẩm XM13 XL vào kho.
+18:55:28 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 33 sản phẩm SS209M vào kho.
+18:55:53 - 17/04/2018 : Thơm Nguyễn đã nhập thêm 1 sản phẩm NC44 M vào kho.

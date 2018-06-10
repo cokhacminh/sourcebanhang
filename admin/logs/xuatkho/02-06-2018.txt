@@ -1,0 +1,24 @@
+13:50:43 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB223 Size M số lượng  bộ.
+13:51:21 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB223 Size S số lượng 5 bộ.
+13:52:01 - 02/06/2018 : khacminh insert into lichsuxuatnhaphang (thoigian,username,thaotac,idsanpham,soluong) values ('2018-06-02 01:52:01','khacminh','nhaphang','233','4').
+13:52:29 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB223 Size XL số lượng 2 bộ.
+13:53:07 - 02/06/2018 : khacminh insert into lichsuxuatnhaphang (thoigian,username,thaotac,idsanpham,soluong) values ('2018-06-02 01:53:07','khacminh','nhaphang','234','3').
+13:53:10 - 02/06/2018 : khacminh đã XUẤT KHO sản phẩm DB223 Size M số lượng -2 bộ.
+13:59:13 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB13 Size M số lượng 5 bộ . ID : 180.
+14:00:53 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB13 Size XL số lượng 5 bộ . ID : 2018-06-02 02:00:53.
+14:04:02 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB13 Size L số lượng 3 bộ . ID : 2018-06-02 02:04:02.
+14:06:04 - 02/06/2018 : khacminh INSERT INTO `lichsuxuatnhaphang` (`thoigian`, `username`, `thaotac`, `idsanpham`, `soluong`) VALUES ('2018-06-02 02:06:04', 'khacminh', 'nhaphang', '233', '3').
+14:06:29 - 02/06/2018 : khacminh INSERT INTO `lichsuxuatnhaphang` (`thoigian`, `username`, `thaotac`, `idsanpham`, `soluong`) VALUES ('2018-06-02 02:06:29', 'khacminh', 'nhaphang', '233', '3').
+14:07:28 - 02/06/2018 : khacminh INSERT INTO `lichsuxuatnhaphang` (`thoigian`, `username`, `thaotac`, `idsanpham`, `soluong`) VALUES ('2018-06-02 02:07:28', 'khacminh', 'nhaphang', '222', '10').
+14:09:09 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB03 Size M số lượng 2 bộ . ID : 2018-06-02 02:09:09.
+14:10:36 - 02/06/2018 : khacminh đã XUẤT KHO sản phẩm DB03 Size M số lượng -3 bộ.
+
+14:10:51 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB03 Size M số lượng 3 bộ . ID : 2018-06-02 02:10:51.
+INSERT INTO `lichsuxuatnhaphang` (`thoigian`, `username`, `thaotac`, `idsanpham`, `soluong`) VALUES ('2018-06-02 02:10:51', 'khacminh', 'nhaphang', '222', '3')
+14:11:54 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB03 Size M số lượng 2 bộ . ID : 2018-06-02 02:11:54.
+INSERT INTO `lichsuxuatnhaphang` (`thoigian`, `username`, `thaotac`, `idsanpham`, `soluong`) VALUES ('2018-06-02 02:11:54', 'khacminh', 'nhaphang', '222', '2')
+14:12:23 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB03 Size M số lượng 1 bộ . ID : 2018-06-02 02:12:23.
+INSERT INTO `lichsuxuatnhaphang` (`thoigian`, `username`, `thaotac`, `idsanpham`, `soluong`) VALUES ('2018-06-02 02:12:23', 'khacminh', 'nhaphang', '222', '1')
+14:13:20 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB03 Size M số lượng 4 bộ . ID : 2018-06-02 02:13:20.
+INSERT INTO `lichsuxuatnhaphang` (`thoigian`, `username`, `thaotac`, `idsanpham`, `soluong`) VALUES ('2018-06-02 02:13:20', 'khacminh', 'nhaphang', '222', '4')
+14:18:03 - 02/06/2018 : khacminh đã NHẬP KHO sản phẩm DB03 Size M số lượng 3 bộ . ID : 2018-06-02 02:18:03.

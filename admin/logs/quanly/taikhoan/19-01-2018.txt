@@ -1,0 +1,8 @@
+08:41:44 - 19/01/2018 : Mapbi Nguyễn Đã thêm tài khoản thuyct - Mã vận đơn : ct - ID : 117.
+08:42:56 - 19/01/2018 : Mapbi Nguyễn Đã thêm tài khoản luyenct - Mã vận đơn : ct - ID : 118.
+08:44:01 - 19/01/2018 : Mapbi Nguyễn Đã thêm tài khoản quyenct - Mã vận đơn : ct - ID : 119.
+17:11:18 - 19/01/2018 : Mapbi Nguyễn Đã sửa tài khoản thuyct thành thuyct - Mã vận đơn ct thành TP.
+17:12:53 - 19/01/2018 : Mapbi Nguyễn Đã sửa tài khoản quangct thành quangct - Mã vận đơn ct thành QK.
+17:13:52 - 19/01/2018 : Mapbi Nguyễn Đã sửa tài khoản luyenct thành luyenct - Mã vận đơn ct thành LN.
+17:14:42 - 19/01/2018 : Mapbi Nguyễn Đã sửa tài khoản quyenct thành quyenct - Mã vận đơn ct thành QP.
+17:16:58 - 19/01/2018 : Mapbi Nguyễn Đã sửa tài khoản oanhCT thành oanhCT - Mã vận đơn OH thành OH.

@@ -1,0 +1,48 @@
+13:52:53 - 05/03/2018 : Vi Nguyễn đã nhập thêm 157 sản phẩm TD08 L vào kho.
+13:53:23 - 05/03/2018 : Vi Nguyễn đã nhập thêm 150 sản phẩm TD08 M vào kho.
+13:53:51 - 05/03/2018 : Vi Nguyễn đã nhập thêm 120 sản phẩm TD08 S vào kho.
+13:54:17 - 05/03/2018 : Vi Nguyễn đã nhập thêm 1 sản phẩm TD08 XL vào kho.
+13:54:53 - 05/03/2018 : Vi Nguyễn đã nhập thêm 60 sản phẩm TD08 XL vào kho.
+13:55:24 - 05/03/2018 : Vi Nguyễn đã nhập thêm 110 sản phẩm TD08 XS vào kho.
+13:55:52 - 05/03/2018 : Vi Nguyễn đã nhập thêm 1 sản phẩm TD08 XXL vào kho.
+13:57:28 - 05/03/2018 : Vi Nguyễn đã nhập thêm 93 sản phẩm TD04 L vào kho.
+13:57:56 - 05/03/2018 : Vi Nguyễn đã nhập thêm 97 sản phẩm TD04 M vào kho.
+13:58:36 - 05/03/2018 : Vi Nguyễn đã nhập thêm 76 sản phẩm TD04 S vào kho.
+13:58:59 - 05/03/2018 : Vi Nguyễn đã nhập thêm 15 sản phẩm TD04 XL vào kho.
+13:59:48 - 05/03/2018 : Vi Nguyễn đã nhập thêm 134 sản phẩm TD04 XS vào kho.
+14:00:14 - 05/03/2018 : Vi Nguyễn đã nhập thêm 9 sản phẩm TD04 XXL vào kho.
+14:02:01 - 05/03/2018 : Vi Nguyễn đã nhập thêm 104 sản phẩm TD01 XL vào kho.
+14:02:42 - 05/03/2018 : Vi Nguyễn đã nhập thêm 223 sản phẩm TD01 XS vào kho.
+14:03:03 - 05/03/2018 : Vi Nguyễn đã nhập thêm 72 sản phẩm TD01 XXL vào kho.
+14:03:32 - 05/03/2018 : Vi Nguyễn đã nhập thêm 286 sản phẩm TD01L vào kho.
+14:04:09 - 05/03/2018 : Vi Nguyễn đã nhập thêm 230 sản phẩm TD01M vào kho.
+14:04:38 - 05/03/2018 : Vi Nguyễn đã nhập thêm 235 sản phẩm TD01S vào kho.
+14:05:41 - 05/03/2018 : Vi Nguyễn đã nhập thêm 163 sản phẩm TD02 L vào kho.
+14:06:53 - 05/03/2018 : Vi Nguyễn đã nhập thêm 73 sản phẩm TD02 L vào kho.
+14:07:49 - 05/03/2018 : Vi Nguyễn đã nhập thêm 40 sản phẩm TD02 M vào kho.
+14:08:05 - 05/03/2018 : Vi Nguyễn đã nhập thêm 78 sản phẩm TD02 S vào kho.
+14:08:58 - 05/03/2018 : Vi Nguyễn đã nhập thêm 78 sản phẩm TD02 XS vào kho.
+14:10:46 - 05/03/2018 : Vi Nguyễn đã nhập thêm 192 sản phẩm TD10 L vào kho.
+14:11:22 - 05/03/2018 : Vi Nguyễn đã nhập thêm 490 sản phẩm TD10 M vào kho.
+14:12:53 - 05/03/2018 : Vi Nguyễn đã nhập thêm 278 sản phẩm TD10 S vào kho.
+14:14:15 - 05/03/2018 : Vi Nguyễn đã nhập thêm 218 sản phẩm TD10 XL vào kho.
+14:14:44 - 05/03/2018 : Vi Nguyễn đã nhập thêm 300 sản phẩm TD10 XS vào kho.
+14:15:53 - 05/03/2018 : Vi Nguyễn đã nhập thêm 121 sản phẩm TD07 L vào kho.
+14:16:18 - 05/03/2018 : Vi Nguyễn đã nhập thêm 208 sản phẩm TD07 M vào kho.
+14:16:46 - 05/03/2018 : Vi Nguyễn đã nhập thêm 212 sản phẩm TD07 S vào kho.
+14:17:10 - 05/03/2018 : Vi Nguyễn đã nhập thêm 150 sản phẩm TD07 XL vào kho.
+14:17:39 - 05/03/2018 : Vi Nguyễn đã nhập thêm 213 sản phẩm TD07 XS vào kho.
+14:18:04 - 05/03/2018 : Vi Nguyễn đã nhập thêm 23 sản phẩm TD07XXL vào kho.
+14:19:49 - 05/03/2018 : Vi Nguyễn đã nhập thêm 81 sản phẩm TD06 (Cam ) L vào kho.
+14:20:11 - 05/03/2018 : Vi Nguyễn đã nhập thêm 207 sản phẩm TD06 (Cam ) M vào kho.
+14:20:46 - 05/03/2018 : Vi Nguyễn đã nhập thêm 241 sản phẩm TD06 (Cam ) S vào kho.
+14:21:09 - 05/03/2018 : Vi Nguyễn đã nhập thêm 64 sản phẩm TD06 (Cam ) XL vào kho.
+14:21:42 - 05/03/2018 : Vi Nguyễn đã nhập thêm 283 sản phẩm TD06 (Cam ) XS vào kho.
+14:22:17 - 05/03/2018 : Vi Nguyễn đã nhập thêm 64 sản phẩm TD06 XL vào kho.
+14:22:43 - 05/03/2018 : Vi Nguyễn đã nhập thêm 2 sản phẩm TD06XXL(cam) vào kho.
+14:23:52 - 05/03/2018 : Vi Nguyễn đã nhập thêm 195 sản phẩm TD11 L vào kho.
+14:24:30 - 05/03/2018 : Vi Nguyễn đã nhập thêm 229 sản phẩm TD11 M vào kho.
+14:24:57 - 05/03/2018 : Vi Nguyễn đã nhập thêm 417 sản phẩm TD11 S vào kho.
+14:25:16 - 05/03/2018 : Vi Nguyễn đã nhập thêm 50 sản phẩm TD11 XL vào kho.
+14:25:46 - 05/03/2018 : Vi Nguyễn đã nhập thêm 342 sản phẩm TD11 XS vào kho.
+14:26:05 - 05/03/2018 : Vi Nguyễn đã nhập thêm 115 sản phẩm TD11XXL vào kho.

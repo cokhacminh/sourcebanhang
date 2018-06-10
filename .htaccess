@@ -1,0 +1,16 @@
+RewriteEngine on
+RewriteRule ^banhang$ banhang.php
+RewriteRule ^thongke$ index.php
+RewriteRule ^kiemtradonhang$ confirm_payment.php
+RewriteRule ^hoantatbanhang$ finish_sell.php
+RewriteRule ^donhang$ donhangapi.php
+RewriteRule ^hoso$ profile.php
+RewriteRule ^donthanhcong$ donthanhcong.php
+RewriteRule ^donthatbai$ donthatbai.php
+RewriteRule ^xuatkho$ xuatkho.php
+RewriteRule ^dangapi$ dangapi.php
+RewriteRule ^dondanggiao$ donchuagiao.php
+RewriteRule ^khohang$ khohang.php
+RewriteRule ^hoanhang$ hoanhang.php
+RewriteRule ^thongkehanghoan$ lichsuhoanhang.php
+RewriteRule ^bangluong$ bangluong.php

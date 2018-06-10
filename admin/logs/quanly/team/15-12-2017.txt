@@ -1,0 +1,20 @@
+13:32:10 - 15/12/2017 : Vi Nguyễn Đã tạo nhóm Sales  Lầu 2 - Mã vận đơn : KID - ID nhóm : #9.
+13:33:02 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Diễm Lầu 2 vào nhóm Lầu 2.
+13:57:01 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Oanh lầu 2 vào nhóm Lầu 2.
+13:57:01 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Nhung lầu 2 vào nhóm Lầu 2.
+13:57:01 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Trang Lầu 2 vào nhóm Lầu 2.
+13:57:01 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Phú Óc vào nhóm Lầu 2.
+13:57:01 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Xuân lầu 2 vào nhóm Lầu 2.
+13:57:01 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Hương Lầu 2 vào nhóm Lầu 2.
+13:57:01 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Phúc Lầu 2 vào nhóm Lầu 2.
+13:57:01 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Quỳnh lầu 2 vào nhóm Lầu 2.
+14:14:01 - 15/12/2017 : Vi Nguyễn Đã xóa Diễm Lầu 2 ra khỏi nhóm Lầu 2.
+14:14:05 - 15/12/2017 : Vi Nguyễn Đã xóa Xuân lầu 2 ra khỏi nhóm Lầu 2.
+14:18:14 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Diễmlầu 2 vào nhóm Lầu 2.
+16:46:52 - 15/12/2017 : Vi Nguyễn Đã xóa Phú Óc ra khỏi nhóm Lầu 2.
+16:47:02 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Thư Lầu2 vào nhóm Lầu 2.
+16:47:02 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Diễm Lầu 2 vào nhóm Lầu 2.
+16:47:02 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Xuân lầu 2 vào nhóm Lầu 2.
+16:47:02 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Cát Tiên vào nhóm Lầu 2.
+17:07:22 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Tâm lầu 2 vào nhóm Lầu 2.
+17:43:39 - 15/12/2017 : Vi Nguyễn Đã thêm nhân viên Tiên Lầu2 vào nhóm Lầu 2.

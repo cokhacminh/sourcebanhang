@@ -1,0 +1,8 @@
+18:25:01 - 05/12/2017 : Khắc Minh Đã tạo nhóm Sales  Thời Trang S2 - Mã vận đơn : SS - ID nhóm : #1.
+18:28:31 - 05/12/2017 : Bảo Châu Đã thêm nhân viên Huyền vào nhóm Bảo Châu.
+18:31:45 - 05/12/2017 : Khắc Minh Đã thêm nhân viên Thơm Nguyễn vào nhóm Thời Trang S2.
+18:31:45 - 05/12/2017 : Khắc Minh Đã thêm nhân viên Hằng vào nhóm Thời Trang S2.
+23:56:07 - 05/12/2017 : Khắc Minh Đã xóa Hằng ra khỏi nhóm Thời Trang S2.
+23:56:16 - 05/12/2017 : Khắc Minh Đã xóa Hằng ra khỏi nhóm Thời Trang S2.
+23:56:45 - 05/12/2017 : Khắc Minh Đã xóa Hằng ra khỏi nhóm Thời Trang S2.
+23:56:49 - 05/12/2017 : Khắc Minh Đã thêm nhân viên Hằng vào nhóm Thời Trang S2.
