@@ -1,18 +1,14 @@
 <?php
 include("db.php");
 include("config.php");
-if(!isset($_COOKIE['login']))
+if(!isset($_COOKIE['login']) or $_COOKIE['login'] == 0)
 {
-
-	echo "<script type=\"text/javascript\">
-           window.location = \"{$site_url}/login.php\"
-      </script>";
-
+	include("template/login.php");
 }
 elseif($_COOKIE['login'] == "2")
 {
 echo "<script type=\"text/javascript\">
-           window.location = \"{$site_url}/lockscreen.php\"
+           window.location = \"{$site_url}/template/lockscreen.php\"
       </script>";	
 }
 elseif(isset($_COOKIE['thongtintaikhoan']))
@@ -40,15 +36,15 @@ if(isset($_GET['dosomething']))
 	{
 		setcookie("login","2",time()+3600*5);
 		echo "<script type=\"text/javascript\">
-           window.location = \"{$site_url}/lockscreen.php\"
+           window.location = \"{$site_url}/template/lockscreen.php\"
       </script>";	
 	}
 	if($do =="logout")
 	{
-		setcookie("login","",time()-3600*5);
-		setcookie("thongtintaikhoan","",time()-3600*5);
+		setcookie("login","",time()-3600*5,"/");
+		setcookie("thongtintaikhoan","",time()-3600*5,"/");
 		echo "<script type=\"text/javascript\">
-           window.location = \"{$site_url}/login.php\"
+           window.location = \"{$site_url}\"
       </script>";	
 	}
 }

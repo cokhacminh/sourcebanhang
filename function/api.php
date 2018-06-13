@@ -1,5 +1,4 @@
 <?php
-include("../check_access.php");
 $api_status_id = array(
 "0"=>"Chưa tiếp nhận",
 "-1"=>"Đã Hủy",

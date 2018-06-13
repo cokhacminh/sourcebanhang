@@ -68,7 +68,6 @@ while($do = mysql_fetch_array($sql))
 	$showdonhang.=$value."<br />";
 	}
 $phiship = $do['phiship'];
-$tongtien = number_format($do['tongtien']);
 $thoigian = $do['thoigian'];
 $time = strtotime($thoigian);
 $ngaygio = date("d/m/Y H:i:s",$time);
@@ -76,6 +75,10 @@ $goihang = $do['goihang'];
 $ghtk = $do['ghtk'];
 $page = $do['page'];
 $status_id = $do['status_id'];
+$tongtien = number_format($do['tongtien']);
+$tamung = $do['tamung'];
+$smod_check_tamung = $do['smod'];
+$ten_smod_check_tamung = getname($smod_check_tamung);
 $trangthaiapi = $api_status_id[$status_id];
 
 if($quyenhan['smod'] =="1")
@@ -94,6 +97,17 @@ if($quyenhan['smod'] =="1")
 	elseif($ghtk !="" and $goihang =="0") $button3 = "<a data-toggle=\"modal\" data-target=\"#Form_edit_donhang\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-success\" onclick=\"suadonhang('{$id}')\"> Sửa</a><a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhangapi({$id})'>Xóa Đơn</a>";
 	elseif($ghtk !="" and $goihang =="1") $button3 = "<a data-toggle=\"modal\" data-target=\"#Form_edit_donhang\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-success\" onclick=\"suadonhang('{$id}')\"> Sửa</a><a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='huydonhang({$id})'>Huỷ Đơn</a>";
 	$button = $button1.$button2.$button3;
+	//Button Tạm Ứng
+	if($tamung !=0)
+	{
+		if($smod_check_tamung == 0)
+			$button_tamung = "<a data-toggle=\"modal\" data-target=\"#Form_khachung\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-danger\" onclick=\"xacnhanung('{$id}')\"> Xác Nhận</a>";
+		else
+			$button_tamung = "Nguời xác nhận : <b><font color=\"red\">".$ten_smod_check_tamung."</font></b>";	
+	}
+	else
+		$button_tamung = "";
+
 }
 elseif(($quyenhan['smod']=="0" or $quyenhan['smod'] == "") && $quyenhan['mod'] =="1")	
 {
@@ -110,6 +124,18 @@ elseif(($quyenhan['smod']=="0" or $quyenhan['smod'] == "") && $quyenhan['mod'] =
 		$button3 = "<a data-toggle=\"modal\" data-target=\"#Form_edit_donhang\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-success\" onclick=\"suadonhang('{$id}')\"> Sửa</a><a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhang({$id})'>Xóa</a>";
 	elseif($ghtk !="" and $goihang =="0") $button3 = "<a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhangapi({$id})'>Xóa Đơn</a>";
 	$button = $button1.$button2.$button3;	
+	//Button Tạm Ứng
+	if($tamung !=0)
+	{
+		if($smod_check_tamung == 0)
+			$button_tamung = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-default'>CHƯA DUYỆT</a>";
+		else
+			$button_tamung = "Nguời xác nhận : <b><font color=\"red\">".$ten_smod_check_tamung."</font></b>";	
+	}
+	else
+		$button_tamung = "";
+	
+	
 }
 if(($quyenhan['smod']=="0" or $quyenhan['smod'] == "") && ($quyenhan['mod'] =="0" or $quyenhan['mod'] =="") && $quyenhan['banhang'] =="1")	
 {
@@ -125,8 +151,25 @@ if(($quyenhan['smod']=="0" or $quyenhan['smod'] == "") && ($quyenhan['mod'] =="0
 	if($ghtk =="")
 		$button3 = "<a data-toggle=\"modal\" data-target=\"#Form_edit_donhang\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-success\" onclick=\"suadonhang('{$id}')\"> Sửa</a><a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhang({$id})'>Xóa</a>";
 	elseif($ghtk !="" and $goihang =="0") $button3 = "<a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhangapi({$id})'>Xóa Đơn</a>";
-	$button = $button1.$button2.$button3;	
+	$button = $button1.$button2.$button3;
+	//Button Tạm Ứng
+	if($tamung !=0)
+	{
+		if($smod_check_tamung == 0)
+			$button_tamung = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-default'>CHƯA DUYỆT</a>";
+		else
+			$button_tamung = "Nguời xác nhận : <b><font color=\"red\">".$ten_smod_check_tamung."</font></b>";	
+	}
+	else
+		$button_tamung = "";
+		
 }
+
+if($tamung == 0)
+$khachungtruoc = "";
+else
+$khachungtruoc = "Khách ứng : <b><font color=\"red\">".number_format($tamung)."</font></b>";
+$tongtien .= "<br />".$khachungtruoc."<br />".$button_tamung;
 $ghichu = $do['ghichu'];
 $array[] = array("ngaygio"=>$ngaygio,"madonhang"=>"{$madonhang}<br /><b><font color='red'>{$ghtk}</font></b>","nhanvien"=>$tennhanvien,"khachhang"=>$khachhang,"showdonhang"=>$showdonhang,"tongtien"=>$tongtien,"page"=>$page,"ghichu"=>$ghichu,"thaotac"=>$button);
 }
@@ -262,6 +305,7 @@ $cod = $do['cod'];
 $doanhso = $cod - $shipcod;
 $doisoat = "<b>".number_format($shipcod)."</b>";
 $tongtien = number_format($do['tongtien']);
+
 $thoigian = $do['thoigian'];
 $time = strtotime($thoigian);
 $ngaygio = date("d/m/Y H:i:s",$time);

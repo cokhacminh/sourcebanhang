@@ -1,4 +1,5 @@
 <?php
+/*
 	define( 'ROOTDIR', pathinfo( str_replace( DIRECTORY_SEPARATOR, '/', __file__ ), PATHINFO_DIRNAME ) );
 define( 'CACHEDIR', 'cache' );
 $sys_info = array();
@@ -15,6 +16,7 @@ if( $sys_info['zlib_support'] )
 		$sys_info['str_compress'] = array( 'gzdeflate', 'gzinflate' );
 	}
 }
+*/
     $ketnoi['host'] = 'localhost'; //Tên server, nếu dùng hosting free thì cần thay đổi
     $ketnoi['dbname'] = 'hethong'; //Đây là tên của Database
     $ketnoi['username'] = 'root'; //Tên sử dụng Database

@@ -4,6 +4,126 @@
 		"selected_items":
 		[
 			[
+				"tongd",
+				"tongdondanggiao"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"num",
+				"number_format"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"ten",
+				"ten_smod_check_tamung"
+			],
+			[
+				"smod",
+				"smod_check_tamung"
+			],
+			[
+				"tong",
+				"tongtien"
+			],
+			[
+				"butto",
+				"button_tamung"
+			],
+			[
+				"smo",
+				"smod_check_tamung"
+			],
+			[
+				"add",
+				"add_tinh"
+			],
+			[
+				"dia",
+				"diachi"
+			],
+			[
+				"nu",
+				"number_format"
+			],
+			[
+				"show",
+				"show_phiship"
+			],
+			[
+				"nhanvi",
+				"nhanviencarebill"
+			],
+			[
+				"ke",
+				"key_max"
+			],
+			[
+				"id",
+				"id_nhanvien"
+			],
+			[
+				"form_",
+				"form_donhang"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"remove",
+				"removeDiv"
+			],
+			[
+				"form_se",
+				"form_select_sp"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"list",
+				"list_sanpham"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"bt",
+				"btn-up"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"select",
+				"selectsanpham"
+			],
+			[
 				"li",
 				"list_sanpham"
 			],
@@ -24,16 +144,8 @@
 				"selectsanpham"
 			],
 			[
-				"ten",
-				"tenkhachhang"
-			],
-			[
 				"di",
 				"div\tTag"
-			],
-			[
-				"id",
-				"id_nhanvien"
 			],
 			[
 				"optio",
@@ -42,10 +154,6 @@
 			[
 				"x",
 				"xuly_a"
-			],
-			[
-				"w",
-				"width\tproperty"
 			],
 			[
 				"option",
@@ -128,76 +236,82 @@
 	"buffers":
 	[
 		{
-			"file": "banhang_bk.php",
+			"file": "function/donhang_smod.php",
 			"settings":
 			{
-				"buffer_size": 9328,
+				"buffer_size": 20572,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "banhang.php",
+			"file": "/C/Users/Admin/Downloads/Compressed/HTML/forms-advanced.html",
 			"settings":
 			{
-				"buffer_size": 17459,
+				"buffer_size": 75620,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "template/userbox.php",
+			"settings":
+			{
+				"buffer_size": 3488,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "ajax/selectsanpham.php",
+			"file": "check_access.php",
 			"settings":
 			{
-				"buffer_size": 213,
+				"buffer_size": 1557,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "ajax/diachi.php",
+			"file": "smod/donhangapi.php",
 			"settings":
 			{
-				"buffer_size": 879,
+				"buffer_size": 13290,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "function/api.php",
+			"file": "function/jquery_donhang.php",
 			"settings":
 			{
-				"buffer_size": 9212,
+				"buffer_size": 22198,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "function/function.php",
+			"file": "/C/Users/Admin/AppData/Local/Temp/~flashfxp/82F41D7A_edit.tmp/hangbanra.php",
 			"settings":
 			{
-				"buffer_size": 8922,
+				"buffer_size": 12669,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "assets/stylesheets/theme.css",
+			"file": "ajax/donhang.php",
 			"settings":
 			{
-				"buffer_size": 361141,
+				"buffer_size": 29894,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "<!doctype html>\n<html class=\"fixed\">\n\t<head>\n\n\t\t<!-- Basic -->\n\t\t<meta charset=\"UTF-8\">\n\n\t\t<title>Form Wizard | Okler Themes | Porto-Admin</title>\n\t\t<meta name=\"keywords\" content=\"HTML5 Admin Template\" />\n\t\t<meta name=\"description\" content=\"Porto Admin - Responsive HTML5 Template\">\n\t\t<meta name=\"author\" content=\"okler.net\">\n\n\t\t<!-- Mobile Metas -->\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\" />\n\n\t\t<!-- Web Fonts  -->\n\t\t<link href=\"http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Shadows+Into+Light\" rel=\"stylesheet\" type=\"text/css\">\n\n\t\t<!-- Vendor CSS -->\n\t\t<link rel=\"stylesheet\" href=\"assets/vendor/bootstrap/css/bootstrap.css\" />\n\t\t<link rel=\"stylesheet\" href=\"assets/vendor/font-awesome/css/font-awesome.css\" />\n\t\t<link rel=\"stylesheet\" href=\"assets/vendor/magnific-popup/magnific-popup.css\" />\n\t\t<link rel=\"stylesheet\" href=\"assets/vendor/bootstrap-datepicker/css/datepicker3.css\" />\n\n\t\t<!-- Specific Page Vendor CSS -->\n\t\t<link rel=\"stylesheet\" href=\"assets/vendor/pnotify/pnotify.custom.css\" />\n\n\t\t<!-- Theme CSS -->\n\t\t<link rel=\"stylesheet\" href=\"assets/stylesheets/theme.css\" />\n\n\t\t<!-- Skin CSS -->\n\t\t<link rel=\"stylesheet\" href=\"assets/stylesheets/skins/default.css\" />\n\n\t\t<!-- Theme Custom CSS -->\n\t\t<link rel=\"stylesheet\" href=\"assets/stylesheets/theme-custom.css\">\n\n\t\t<!-- Head Libs -->\n\t\t<script src=\"assets/vendor/modernizr/modernizr.js\"></script>\n\n\t</head>\n\t<body>\n\t\t<section class=\"body\">\n\n\t\t\t<!-- start: header -->\n\t\t\t<header class=\"header\">\n\t\t\t\t<div class=\"logo-container\">\n\t\t\t\t\t<a href=\"../\" class=\"logo\">\n\t\t\t\t\t\t<img src=\"assets/images/logo.png\" height=\"35\" alt=\"Porto Admin\" />\n\t\t\t\t\t</a>\n\t\t\t\t\t<div class=\"visible-xs toggle-sidebar-left\" data-toggle-class=\"sidebar-left-opened\" data-target=\"html\" data-fire-event=\"sidebar-left-opened\">\n\t\t\t\t\t\t<i class=\"fa fa-bars\" aria-label=\"Toggle sidebar\"></i>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\n\t\t\t\t<!-- start: search & user box -->\n\t\t\t\t<div class=\"header-right\">\n\t\t\t\n\t\t\t\t\t<form action=\"pages-search-results.html\" class=\"search nav-form\">\n\t\t\t\t\t\t<div class=\"input-group input-search\">\n\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"q\" id=\"q\" placeholder=\"Search...\">\n\t\t\t\t\t\t\t<span class=\"input-group-btn\">\n\t\t\t\t\t\t\t\t<button class=\"btn btn-default\" type=\"submit\"><i class=\"fa fa-search\"></i></button>\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</form>\n\t\t\t\n\t\t\t\t\t<span class=\"separator\"></span>\n\t\t\t\n\t\t\t\t\t<ul class=\"notifications\">\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"dropdown-toggle notification-icon\" data-toggle=\"dropdown\">\n\t\t\t\t\t\t\t\t<i class=\"fa fa-tasks\"></i>\n\t\t\t\t\t\t\t\t<span class=\"badge\">3</span>\n\t\t\t\t\t\t\t</a>\n\t\t\t\n\t\t\t\t\t\t\t<div class=\"dropdown-menu notification-menu large\">\n\t\t\t\t\t\t\t\t<div class=\"notification-title\">\n\t\t\t\t\t\t\t\t\t<span class=\"pull-right label label-default\">3</span>\n\t\t\t\t\t\t\t\t\tTasks\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<p class=\"clearfix mb-xs\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message pull-left\">Generating Sales Report</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message pull-right text-dark\">60%</span>\n\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress progress-xs light\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress-bar\" role=\"progressbar\" aria-valuenow=\"60\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 60%;\"></div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<p class=\"clearfix mb-xs\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message pull-left\">Importing Contacts</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message pull-right text-dark\">98%</span>\n\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress progress-xs light\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress-bar\" role=\"progressbar\" aria-valuenow=\"98\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 98%;\"></div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<p class=\"clearfix mb-xs\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message pull-left\">Uploading something big</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message pull-right text-dark\">33%</span>\n\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress progress-xs light mb-xs\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress-bar\" role=\"progressbar\" aria-valuenow=\"33\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 33%;\"></div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"dropdown-toggle notification-icon\" data-toggle=\"dropdown\">\n\t\t\t\t\t\t\t\t<i class=\"fa fa-envelope\"></i>\n\t\t\t\t\t\t\t\t<span class=\"badge\">4</span>\n\t\t\t\t\t\t\t</a>\n\t\t\t\n\t\t\t\t\t\t\t<div class=\"dropdown-menu notification-menu\">\n\t\t\t\t\t\t\t\t<div class=\"notification-title\">\n\t\t\t\t\t\t\t\t\t<span class=\"pull-right label label-default\">230</span>\n\t\t\t\t\t\t\t\t\tMessages\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"clearfix\">\n\t\t\t\t\t\t\t\t\t\t\t\t<figure class=\"image\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"assets/images/!sample-user.jpg\" alt=\"Joseph Doe Junior\" class=\"img-circle\" />\n\t\t\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">Joseph Doe</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message\">Lorem ipsum dolor sit.</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"clearfix\">\n\t\t\t\t\t\t\t\t\t\t\t\t<figure class=\"image\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"assets/images/!sample-user.jpg\" alt=\"Joseph Junior\" class=\"img-circle\" />\n\t\t\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">Joseph Junior</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message truncate\">Truncated message. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet lacinia orci. Proin vestibulum eget risus non luctus. Nunc cursus lacinia lacinia. Nulla molestie malesuada est ac tincidunt. Quisque eget convallis diam, nec venenatis risus. Vestibulum blandit faucibus est et malesuada. Sed interdum cursus dui nec venenatis. Pellentesque non nisi lobortis, rutrum eros ut, convallis nisi. Sed tellus turpis, dignissim sit amet tristique quis, pretium id est. Sed aliquam diam diam, sit amet faucibus tellus ultricies eu. Aliquam lacinia nibh a metus bibendum, eu commodo eros commodo. Sed commodo molestie elit, a molestie lacus porttitor id. Donec facilisis varius sapien, ac fringilla velit porttitor et. Nam tincidunt gravida dui, sed pharetra odio pharetra nec. Duis consectetur venenatis pharetra. Vestibulum egestas nisi quis elementum elementum.</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"clearfix\">\n\t\t\t\t\t\t\t\t\t\t\t\t<figure class=\"image\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"assets/images/!sample-user.jpg\" alt=\"Joe Junior\" class=\"img-circle\" />\n\t\t\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">Joe Junior</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message\">Lorem ipsum dolor sit.</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"clearfix\">\n\t\t\t\t\t\t\t\t\t\t\t\t<figure class=\"image\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"assets/images/!sample-user.jpg\" alt=\"Joseph Junior\" class=\"img-circle\" />\n\t\t\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">Joseph Junior</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet lacinia orci. Proin vestibulum eget risus non luctus. Nunc cursus lacinia lacinia. Nulla molestie malesuada est ac tincidunt. Quisque eget convallis diam.</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\n\t\t\t\t\t\t\t\t\t<hr />\n\t\t\t\n\t\t\t\t\t\t\t\t\t<div class=\"text-right\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"view-more\">View All</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\" class=\"dropdown-toggle notification-icon\" data-toggle=\"dropdown\">\n\t\t\t\t\t\t\t\t<i class=\"fa fa-bell\"></i>\n\t\t\t\t\t\t\t\t<span class=\"badge\">3</span>\n\t\t\t\t\t\t\t</a>\n\t\t\t\n\t\t\t\t\t\t\t<div class=\"dropdown-menu notification-menu\">\n\t\t\t\t\t\t\t\t<div class=\"notification-title\">\n\t\t\t\t\t\t\t\t\t<span class=\"pull-right label label-default\">3</span>\n\t\t\t\t\t\t\t\t\tAlerts\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"clearfix\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-thumbs-down bg-danger\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">Server is Down!</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message\">Just now</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"clearfix\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-lock bg-warning\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">User Locked</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message\">15 minutes ago</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"clearfix\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-signal bg-success\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">Connection Restaured</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"message\">10/10/2014</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\n\t\t\t\t\t\t\t\t\t<hr />\n\t\t\t\n\t\t\t\t\t\t\t\t\t<div class=\"text-right\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"view-more\">View All</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\n\t\t\t\t\t<span class=\"separator\"></span>\n\t\t\t\n\t\t\t\t\t<div id=\"userbox\" class=\"userbox\">\n\t\t\t\t\t\t<a href=\"#\" data-toggle=\"dropdown\">\n\t\t\t\t\t\t\t<figure class=\"profile-picture\">\n\t\t\t\t\t\t\t\t<img src=\"assets/images/!logged-user.jpg\" alt=\"Joseph Doe\" class=\"img-circle\" data-lock-picture=\"assets/images/!logged-user.jpg\" />\n\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t<div class=\"profile-info\" data-lock-name=\"John Doe\" data-lock-email=\"johndoe@okler.com\">\n\t\t\t\t\t\t\t\t<span class=\"name\">John Doe Junior</span>\n\t\t\t\t\t\t\t\t<span class=\"role\">administrator</span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t\t<i class=\"fa custom-caret\"></i>\n\t\t\t\t\t\t</a>\n\t\t\t\n\t\t\t\t\t\t<div class=\"dropdown-menu\">\n\t\t\t\t\t\t\t<ul class=\"list-unstyled\">\n\t\t\t\t\t\t\t\t<li class=\"divider\"></li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a role=\"menuitem\" tabindex=\"-1\" href=\"pages-user-profile.html\"><i class=\"fa fa-user\"></i> My Profile</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a role=\"menuitem\" tabindex=\"-1\" href=\"#\" data-lock-screen=\"true\"><i class=\"fa fa-lock\"></i> Lock Screen</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a role=\"menuitem\" tabindex=\"-1\" href=\"pages-signin.html\"><i class=\"fa fa-power-off\"></i> Logout</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- end: search & user box -->\n\t\t\t</header>\n\t\t\t<!-- end: header -->\n\n\t\t\t<div class=\"inner-wrapper\">\n\t\t\t\t<!-- start: sidebar -->\n\t\t\t\t<aside id=\"sidebar-left\" class=\"sidebar-left\">\n\t\t\t\t\n\t\t\t\t\t<div class=\"sidebar-header\">\n\t\t\t\t\t\t<div class=\"sidebar-title\">\n\t\t\t\t\t\t\tNavigation\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"sidebar-toggle hidden-xs\" data-toggle-class=\"sidebar-left-collapsed\" data-target=\"html\" data-fire-event=\"sidebar-left-toggle\">\n\t\t\t\t\t\t\t<i class=\"fa fa-bars\" aria-label=\"Toggle sidebar\"></i>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\t<div class=\"nano\">\n\t\t\t\t\t\t<div class=\"nano-content\">\n\t\t\t\t\t\t\t<nav id=\"menu\" class=\"nav-main\" role=\"navigation\">\n\t\t\t\t\t\t\t\t<ul class=\"nav nav-main\">\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"index.html\">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-home\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t<span>Dashboard</span>\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"mailbox-folder.html\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"pull-right label label-primary\">182</span>\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-envelope\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t<span>Mailbox</span>\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"nav-parent\">\n\t\t\t\t\t\t\t\t\t\t<a>\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-copy\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t<span>Pages</span>\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-children\">\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-signup.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Sign Up\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-signin.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Sign In\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-recover-password.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Recover Password\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-lock-screen.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Locked Screen\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-user-profile.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t User Profile\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-session-timeout.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Session Timeout\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-calendar.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Calendar\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-timeline.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Timeline\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-media-gallery.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Media Gallery\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-invoice.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Invoice\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-blank.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Blank Page\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-404.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t 404\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-500.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t 500\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-log-viewer.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Log Viewer\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"pages-search-results.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Search Results\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"nav-parent\">\n\t\t\t\t\t\t\t\t\t\t<a>\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-tasks\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t<span>UI Elements</span>\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-children\">\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-typography.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Typography\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-icons.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Icons\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-tabs.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Tabs\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-panels.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Panels\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-widgets.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Widgets\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-portlets.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Portlets\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-buttons.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Buttons\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-alerts.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Alerts\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-notifications.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Notifications\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-modals.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Modals\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-lightbox.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Lightbox\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-progressbars.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Progress Bars\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-sliders.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Sliders\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-carousels.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Carousels\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-accordions.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Accordions\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-nestable.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Nestable\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-tree-view.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Tree View\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-grid-system.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Grid System\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-charts.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Charts\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-animations.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Animations\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"ui-elements-extra.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Extra\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"nav-parent nav-expanded nav-active\">\n\t\t\t\t\t\t\t\t\t\t<a>\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-list-alt\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t<span>Forms</span>\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-children\">\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"forms-basic.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Basic\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"forms-advanced.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Advanced\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"forms-validation.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Validation\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"forms-layouts.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Layouts\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-active\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"forms-wizard.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Wizard\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"forms-code-editor.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Code Editor\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"nav-parent\">\n\t\t\t\t\t\t\t\t\t\t<a>\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-table\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t<span>Tables</span>\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-children\">\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"tables-basic.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Basic\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"tables-advanced.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Advanced\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"tables-responsive.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Responsive\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"tables-editable.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Editable\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"tables-ajax.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Ajax\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"tables-pricing.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Pricing\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"nav-parent\">\n\t\t\t\t\t\t\t\t\t\t<a>\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-map-marker\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t<span>Maps</span>\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-children\">\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"maps-google-maps.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Basic\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"maps-google-maps-builder.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Map Builder\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"maps-vector.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Vector\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"nav-parent\">\n\t\t\t\t\t\t\t\t\t\t<a>\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-columns\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t<span>Layouts</span>\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-children\">\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"layouts-default.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Default\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"layouts-boxed.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Boxed\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"layouts-menu-collapsed.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Menu Collapsed\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"layouts-scroll.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t Scroll\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"nav-parent\">\n\t\t\t\t\t\t\t\t\t\t<a>\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-align-left\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t<span>Menu Levels</span>\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-children\">\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a>First Level</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-parent\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Second Level</a>\n\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-children\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-parent\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a>Third Level</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-children\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a>Third Level Link #1</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a>Third Level Link #2</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a>Second Level Link #1</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a>Second Level Link #2</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<a href=\"http://themeforest.net/item/porto-responsive-html5-template/4106987?ref=Okler\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-external-link\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t\t\t\t\t\t<span>Front-End <em class=\"not-included\">(Not Included)</em></span>\n\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</nav>\n\t\t\t\t\n\t\t\t\t\t\t\t<hr class=\"separator\" />\n\t\t\t\t\n\t\t\t\t\t\t\t<div class=\"sidebar-widget widget-tasks\">\n\t\t\t\t\t\t\t\t<div class=\"widget-header\">\n\t\t\t\t\t\t\t\t\t<h6>Projects</h6>\n\t\t\t\t\t\t\t\t\t<div class=\"widget-toggle\">+</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"widget-content\">\n\t\t\t\t\t\t\t\t\t<ul class=\"list-unstyled m-none\">\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\">Porto HTML5 Template</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\">Tucson Template</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\">Porto Admin</a></li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\t\t\t<hr class=\"separator\" />\n\t\t\t\t\n\t\t\t\t\t\t\t<div class=\"sidebar-widget widget-stats\">\n\t\t\t\t\t\t\t\t<div class=\"widget-header\">\n\t\t\t\t\t\t\t\t\t<h6>Company Stats</h6>\n\t\t\t\t\t\t\t\t\t<div class=\"widget-toggle\">+</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"widget-content\">\n\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"stats-title\">Stat 1</span>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"stats-complete\">85%</span>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress-bar progress-bar-primary progress-without-number\" role=\"progressbar\" aria-valuenow=\"85\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 85%;\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"sr-only\">85% Complete</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"stats-title\">Stat 2</span>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"stats-complete\">70%</span>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress-bar progress-bar-primary progress-without-number\" role=\"progressbar\" aria-valuenow=\"70\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 70%;\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"sr-only\">70% Complete</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"stats-title\">Stat 3</span>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"stats-complete\">2%</span>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress-bar progress-bar-primary progress-without-number\" role=\"progressbar\" aria-valuenow=\"2\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 2%;\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"sr-only\">2% Complete</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t</aside>\n\t\t\t\t<!-- end: sidebar -->\n\n\t\t\t\t<section role=\"main\" class=\"content-body\">\n\t\t\t\t\t<header class=\"page-header\">\n\t\t\t\t\t\t<h2>Form Wizard</h2>\n\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"right-wrapper pull-right\">\n\t\t\t\t\t\t\t<ol class=\"breadcrumbs\">\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"index.html\">\n\t\t\t\t\t\t\t\t\t\t<i class=\"fa fa-home\"></i>\n\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li><span>Forms</span></li>\n\t\t\t\t\t\t\t\t<li><span>Wizard</span></li>\n\t\t\t\t\t\t\t</ol>\n\t\t\t\t\t\n\t\t\t\t\t\t\t<a class=\"sidebar-right-toggle\" data-open=\"sidebar-right\"><i class=\"fa fa-chevron-left\"></i></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</header>\n\n\t\t\t\t\t<!-- start: page -->\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<section class=\"panel form-wizard\" id=\"w1\">\n\t\t\t\t\t\t\t\t\t<header class=\"panel-heading\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"panel-actions\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"fa fa-caret-down\"></a>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"fa fa-times\"></a>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<h2 class=\"panel-title\">Form Wizard</h2>\n\t\t\t\t\t\t\t\t\t</header>\n\t\t\t\t\t\t\t\t\t<div class=\"panel-body panel-body-nopadding\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"wizard-tabs\">\n\t\t\t\t\t\t\t\t\t\t\t<ul class=\"wizard-steps\">\n\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"active\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w1-account\" data-toggle=\"tab\" class=\"text-center\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"badge hidden-xs\">1</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tAccount\n\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w1-profile\" data-toggle=\"tab\" class=\"text-center\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"badge hidden-xs\">2</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tProfile\n\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w1-confirm\" data-toggle=\"tab\" class=\"text-center\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"badge hidden-xs\">3</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tConfirm\n\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<form class=\"form-horizontal\" novalidate=\"novalidate\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-content\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w1-account\" class=\"tab-pane active\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w1-username\">Username</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"username\" id=\"w1-username\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w1-password\">Password</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"password\" class=\"form-control input-sm\" name=\"password\" id=\"w1-password\" minlength=\"6\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w1-profile\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w1-first-name\">First Name</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"first-name\" id=\"w1-first-name\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w1-last-name\">Last Name</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"last-name\" id=\"w1-last-name\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w1-confirm\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w1-email\">Email</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"email\" id=\"w1-email\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-2\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-10\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"checkbox-custom\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"checkbox\" name=\"terms\" id=\"w1-terms\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"w1-terms\">I agree to the terms of service</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"panel-footer\">\n\t\t\t\t\t\t\t\t\t\t<ul class=\"pager\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"previous disabled\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a><i class=\"fa fa-angle-left\"></i> Previous</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"finish hidden pull-right\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Finish</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"next\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Next <i class=\"fa fa-angle-right\"></i></a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</section>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<section class=\"panel form-wizard\" id=\"w2\">\n\t\t\t\t\t\t\t\t\t<div class=\"tabs\">\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-tabs nav-justify\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"active\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w2-account\" data-toggle=\"tab\" class=\"text-center\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"badge hidden-xs\">1</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\tAccount\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w2-profile\" data-toggle=\"tab\" class=\"text-center\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"badge hidden-xs\">2</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\tProfile\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w2-confirm\" data-toggle=\"tab\" class=\"text-center\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"badge hidden-xs\">3</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\tConfirm\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t<form class=\"form-horizontal\" novalidate=\"novalidate\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-content\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w2-account\" class=\"tab-pane active\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w2-username\">Username</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" id=\"w2-username\" name=\"username\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w2-password\">Password</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"password\" class=\"form-control input-sm\" name=\"password\" id=\"w2-password\" required minlength=\"6\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w2-profile\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w2-first-name\">First Name</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"first-name\" id=\"w2-first-name\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w2-last-name\">Last Name</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"last-name\" id=\"w2-last-name\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w2-confirm\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w2-email\">Email</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"email\" id=\"w2-email\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-2\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-10\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"checkbox-custom\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"checkbox\" name=\"terms\" id=\"w2-terms\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"w2-terms\">I agree to the terms of service</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"panel-footer\">\n\t\t\t\t\t\t\t\t\t\t<ul class=\"pager\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"previous disabled\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a><i class=\"fa fa-angle-left\"></i> Previous</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"finish hidden pull-right\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Finish</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"next\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Next <i class=\"fa fa-angle-right\"></i></a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</section>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col-xs-12\">\n\t\t\t\t\t\t\t\t<section class=\"panel form-wizard\" id=\"w4\">\n\t\t\t\t\t\t\t\t\t<header class=\"panel-heading\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"panel-actions\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"fa fa-caret-down\"></a>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"fa fa-times\"></a>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<h2 class=\"panel-title\">Form Wizard</h2>\n\t\t\t\t\t\t\t\t\t</header>\n\t\t\t\t\t\t\t\t\t<div class=\"panel-body\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"wizard-progress wizard-progress-lg\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"steps-progress\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress-indicator\"></div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<ul class=\"wizard-steps\">\n\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"active\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w4-account\" data-toggle=\"tab\"><span>1</span>Account Info</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w4-profile\" data-toggle=\"tab\"><span>2</span>Profile Info</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w4-billing\" data-toggle=\"tab\"><span>3</span>Billing Info</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w4-confirm\" data-toggle=\"tab\"><span>4</span>Confirmation</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<form class=\"form-horizontal\" novalidate=\"novalidate\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-content\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w4-account\" class=\"tab-pane active\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-3 control-label\" for=\"w4-username\">Username</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"username\" id=\"w4-username\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-3 control-label\" for=\"w4-password\">Password</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"password\" class=\"form-control\" name=\"password\" id=\"w4-password\" required minlength=\"6\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w4-profile\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-3 control-label\" for=\"w4-first-name\">First Name</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"first-name\" id=\"w4-first-name\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-3 control-label\" for=\"w4-last-name\">Last Name</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"last-name\" id=\"w4-last-name\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w4-billing\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-3 control-label\" for=\"w4-cc\">Card Number</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"cc-number\" id=\"w4-cc\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-3 control-label\" for=\"inputSuccess\">Expiration</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<select class=\"form-control\" name=\"exp-month\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>January</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>February</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>March</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>April</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>May</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>June</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>July</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>August</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>September</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>October</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>November</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>December</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-4\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<select class=\"form-control\" name=\"exp-year\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2014</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2015</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2016</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2017</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2018</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2019</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2020</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2021</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2022</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w4-confirm\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-3 control-label\" for=\"w4-email\">Email</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"email\" id=\"w4-email\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-3\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"checkbox-custom\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"checkbox\" name=\"terms\" id=\"w4-terms\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"w4-terms\">I agree to the terms of service</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"panel-footer\">\n\t\t\t\t\t\t\t\t\t\t<ul class=\"pager\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"previous disabled\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a><i class=\"fa fa-angle-left\"></i> Previous</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"finish hidden pull-right\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Finish</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"next\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Next <i class=\"fa fa-angle-right\"></i></a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</section>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col-md-6\">\n\t\t\t\t\t\t\t\t<section class=\"panel form-wizard\" id=\"w3\">\n\t\t\t\t\t\t\t\t\t<header class=\"panel-heading\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"panel-actions\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"fa fa-caret-down\"></a>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"fa fa-times\"></a>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<h2 class=\"panel-title\">Form Wizard</h2>\n\t\t\t\t\t\t\t\t\t</header>\n\t\t\t\t\t\t\t\t\t<div class=\"panel-body\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"wizard-progress\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"steps-progress\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress-indicator\"></div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"active\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w3-account\" data-toggle=\"tab\"><span>1</span>Account Info</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w3-profile\" data-toggle=\"tab\"><span>2</span>Profile Info</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w3-billing\" data-toggle=\"tab\"><span>3</span>Billing Info</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w3-confirm\" data-toggle=\"tab\"><span>4</span>Confirmation</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<form class=\"form-horizontal\" novalidate=\"novalidate\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-content\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w3-account\" class=\"tab-pane active\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w3-username\">Username</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"username\" id=\"w3-username\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w3-password\">Password</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"password\" class=\"form-control input-sm\" name=\"password\" id=\"w3-password\" minlength=\"6\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w3-profile\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w3-first-name\">First Name</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"first-name\" id=\"w3-first-name\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w3-last-name\">Last Name</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"last-name\" id=\"w3-last-name\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w3-billing\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w3-cc\">Card Number</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"cc-number\" id=\"w3-cc\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"inputSuccess\">Expiration</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-4\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<select class=\"form-control input-sm\" name=\"exp-month\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>January</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>February</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>March</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>April</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>May</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>June</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>July</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>August</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>September</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>October</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>November</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>December</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-4\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<select class=\"form-control input-sm\" name=\"exp-year\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2014</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2015</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2016</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2017</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2018</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2019</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2020</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2021</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2022</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w3-confirm\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w3-email\">Email</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control input-sm\" name=\"email\" id=\"w3-email\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-3\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"checkbox-custom\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"checkbox\" name=\"terms\" id=\"w3-terms\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"w3-terms\">I agree to the terms of service</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"panel-footer\">\n\t\t\t\t\t\t\t\t\t\t<ul class=\"pager\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"previous disabled\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a><i class=\"fa fa-angle-left\"></i> Previous</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"finish hidden pull-right\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Finish</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"next\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Next <i class=\"fa fa-angle-right\"></i></a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</section>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-md-6\">\n\t\t\t\t\t\t\t\t<section class=\"panel form-wizard\" id=\"w5\">\n\t\t\t\t\t\t\t\t\t<header class=\"panel-heading\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"panel-actions\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"fa fa-caret-down\"></a>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"fa fa-times\"></a>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<h2 class=\"panel-title\">Form Wizard</h2>\n\t\t\t\t\t\t\t\t\t</header>\n\t\t\t\t\t\t\t\t\t<div class=\"panel-body\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"wizard-tabs hidden\">\n\t\t\t\t\t\t\t\t\t\t\t<ul class=\"wizard-steps\">\n\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"active\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w5-account\" data-toggle=\"tab\"><span class=\"badge\">1</span>Account Info</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w5-profile\" data-toggle=\"tab\"><span class=\"badge\">2</span>Profile Info</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w5-billing\" data-toggle=\"tab\"><span class=\"badge\">3</span>Billing Info</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#w5-confirm\" data-toggle=\"tab\"><span class=\"badge\">4</span>Confirmation</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"progress progress-striped progress-xl m-md light\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"progress-bar\" role=\"progressbar\" aria-valuenow=\"60\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 60%;\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"sr-only\">60%</span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<form class=\"form-horizontal\" novalidate=\"novalidate\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-content\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w5-account\" class=\"tab-pane active\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w5-username\">Username</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"username\" id=\"w5-username\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w5-password\">Password</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"password\" class=\"form-control\" name=\"password\" id=\"w5-password\" minlength=\"2\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w5-profile\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w5-first-name\">First Name</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"first-name\" id=\"w5-first-name\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w5-last-name\">Last Name</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"last-name\" id=\"w5-last-name\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w5-billing\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w5-cc\">Card Number</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"cc-number\" id=\"w5-cc\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"inputSuccess\">Expiration</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-4\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<select class=\"form-control\" name=\"exp-month\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>January</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>February</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>March</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>April</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>May</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>June</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>July</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>August</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>September</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>October</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>November</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>December</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-4\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<select class=\"form-control\" name=\"exp-year\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2014</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2015</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2016</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2017</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2018</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2019</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2020</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2021</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option>2022</option>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"w5-confirm\" class=\"tab-pane\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"col-sm-4 control-label\" for=\"w5-email\">Email</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"email\" id=\"w5-email\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-3\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"checkbox-custom\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"checkbox\" name=\"terms\" id=\"w5-terms\" required>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"w5-terms\">I agree to the terms of service</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"panel-footer\">\n\t\t\t\t\t\t\t\t\t\t<ul class=\"pager\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"previous disabled\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a><i class=\"fa fa-angle-left\"></i> Previous</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"finish hidden pull-right\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Finish</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"next\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a>Next <i class=\"fa fa-angle-right\"></i></a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</section>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t<!-- end: page -->\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<aside id=\"sidebar-right\" class=\"sidebar-right\">\n\t\t\t\t<div class=\"nano\">\n\t\t\t\t\t<div class=\"nano-content\">\n\t\t\t\t\t\t<a href=\"#\" class=\"mobile-close visible-xs\">\n\t\t\t\t\t\t\tCollapse <i class=\"fa fa-chevron-right\"></i>\n\t\t\t\t\t\t</a>\n\t\t\t\n\t\t\t\t\t\t<div class=\"sidebar-right-wrapper\">\n\t\t\t\n\t\t\t\t\t\t\t<div class=\"sidebar-widget widget-calendar\">\n\t\t\t\t\t\t\t\t<h6>Upcoming Tasks</h6>\n\t\t\t\t\t\t\t\t<div data-plugin-datepicker data-plugin-skin=\"dark\" ></div>\n\t\t\t\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<time datetime=\"2014-04-19T00:00+00:00\">04/19/2014</time>\n\t\t\t\t\t\t\t\t\t\t<span>Company Meeting</span>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t\t<div class=\"sidebar-widget widget-friends\">\n\t\t\t\t\t\t\t\t<h6>Friends</h6>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"status-online\">\n\t\t\t\t\t\t\t\t\t\t<figure class=\"profile-picture\">\n\t\t\t\t\t\t\t\t\t\t\t<img src=\"assets/images/!sample-user.jpg\" alt=\"Joseph Doe\" class=\"img-circle\">\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t<div class=\"profile-info\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"name\">Joseph Doe Junior</span>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">Hey, how are you?</span>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"status-online\">\n\t\t\t\t\t\t\t\t\t\t<figure class=\"profile-picture\">\n\t\t\t\t\t\t\t\t\t\t\t<img src=\"assets/images/!sample-user.jpg\" alt=\"Joseph Doe\" class=\"img-circle\">\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t<div class=\"profile-info\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"name\">Joseph Doe Junior</span>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">Hey, how are you?</span>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"status-offline\">\n\t\t\t\t\t\t\t\t\t\t<figure class=\"profile-picture\">\n\t\t\t\t\t\t\t\t\t\t\t<img src=\"assets/images/!sample-user.jpg\" alt=\"Joseph Doe\" class=\"img-circle\">\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t<div class=\"profile-info\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"name\">Joseph Doe Junior</span>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">Hey, how are you?</span>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"status-offline\">\n\t\t\t\t\t\t\t\t\t\t<figure class=\"profile-picture\">\n\t\t\t\t\t\t\t\t\t\t\t<img src=\"assets/images/!sample-user.jpg\" alt=\"Joseph Doe\" class=\"img-circle\">\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t\t\t\t<div class=\"profile-info\">\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"name\">Joseph Doe Junior</span>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"title\">Hey, how are you?</span>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</aside>\n\t\t</section>\n\n\t\t<!-- Vendor -->\n\t\t<script src=\"assets/vendor/jquery/jquery.js\"></script>\n\t\t<script src=\"assets/vendor/jquery-browser-mobile/jquery.browser.mobile.js\"></script>\n\t\t<script src=\"assets/vendor/bootstrap/js/bootstrap.js\"></script>\n\t\t<script src=\"assets/vendor/nanoscroller/nanoscroller.js\"></script>\n\t\t<script src=\"assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js\"></script>\n\t\t<script src=\"assets/vendor/magnific-popup/magnific-popup.js\"></script>\n\t\t<script src=\"assets/vendor/jquery-placeholder/jquery.placeholder.js\"></script>\n\t\t\n\t\t<!-- Specific Page Vendor -->\n\t\t<script src=\"assets/vendor/jquery-validation/jquery.validate.js\"></script>\n\t\t<script src=\"assets/vendor/bootstrap-wizard/jquery.bootstrap.wizard.js\"></script>\n\t\t<script src=\"assets/vendor/pnotify/pnotify.custom.js\"></script>\n\t\t\n\t\t<!-- Theme Base, Components and Settings -->\n\t\t<script src=\"assets/javascripts/theme.js\"></script>\n\t\t\n\t\t<!-- Theme Custom -->\n\t\t<script src=\"assets/javascripts/theme.custom.js\"></script>\n\t\t\n\t\t<!-- Theme Initialization Files -->\n\t\t<script src=\"assets/javascripts/theme.init.js\"></script>\n\n\n\t\t<!-- Examples -->\n\t\t<script src=\"assets/javascripts/forms/examples.wizard.js\"></script>\n\t</body>\n</html>",
-			"file": "/C/Users/Admin/Downloads/Compressed/HTML/forms-wizard.html",
-			"file_size": 52211,
-			"file_write_time": 131727304915468407,
+			"file": "ajax/users.php",
 			"settings":
 			{
-				"buffer_size": 50837,
+				"buffer_size": 12790,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -243,10 +357,60 @@
 	[
 		"/C/AppServ/www/hethong",
 		"/C/AppServ/www/hethong/ajax",
-		"/C/AppServ/www/hethong/function"
+		"/C/AppServ/www/hethong/banhang",
+		"/C/AppServ/www/hethong/function",
+		"/C/AppServ/www/hethong/smod"
 	],
 	"file_history":
 	[
+		"/C/Users/Admin/AppData/Local/Temp/~flashfxp/84D8D9B4_edit.tmp/tilehoan.php",
+		"/C/Users/Admin/AppData/Local/Temp/~flashfxp/3D7D6002.tmp/tilehoan.php",
+		"/C/Users/Admin/AppData/Local/Temp/~flashfxp/3D7D6002_edit.tmp/menuleft.php",
+		"/C/AppServ/www/hethong/banhang/donhangapi.php",
+		"/C/AppServ/www/hethong/banhang/banhang.php",
+		"/C/AppServ/www/hethong/db.php",
+		"/C/AppServ/www/hethong/ajax/banhang.php",
+		"/C/AppServ/www/hethong/index.php",
+		"/C/AppServ/www/hethong/config.php",
+		"/C/AppServ/www/hethong/check_access.php",
+		"/C/AppServ/www/hethong/ajax/login.php",
+		"/C/AppServ/www/hethong/template/login.php",
+		"/C/AppServ/www/hethong/signin.php",
+		"/C/AppServ/www/hethong/ajax/donhang.php",
+		"/C/AppServ/www/hethong/mod/donhangapi.php",
+		"/C/AppServ/www/hethong/banhang/profile.php",
+		"/C/AppServ/www/hethong/banhang/ajax_profile.php",
+		"/C/AppServ/www/hethong/banhang/bangluong.php",
+		"/C/AppServ/www/hethong/banhang/dangapi.php",
+		"/C/AppServ/www/hethong/banhang/donchuagiao.php",
+		"/C/AppServ/www/hethong/banhang/donthanhcong.php",
+		"/C/AppServ/www/hethong/banhang/donthatbai.php",
+		"/C/AppServ/www/hethong/banhang/index.php",
+		"/C/AppServ/www/hethong/banhang/menuleft.php",
+		"/C/AppServ/www/hethong/function/function_tinhluong.php",
+		"/C/AppServ/www/hethong/banhang/function_tinhluong.php",
+		"/C/AppServ/www/hethong/banhang/function_tinhhoahong.php",
+		"/C/AppServ/www/hethong/function/function.php",
+		"/C/AppServ/www/hethong/smod/donhangapi.php",
+		"/C/AppServ/www/hethong/function/api.php",
+		"/C/AppServ/www/hethong/userbox.php",
+		"/C/AppServ/www/hethong/template/template",
+		"/C/AppServ/www/hethong/function/jquery_donhang.php",
+		"/C/AppServ/www/hethong/ajax_donhang.php",
+		"/C/AppServ/www/hethong/mod/ajax_donhang.php",
+		"/C/Users/Admin/Downloads/Compressed/HTML/forms-wizard.html",
+		"/C/AppServ/www/hethong/assets/stylesheets/theme.css",
+		"/C/AppServ/www/hethong/smod/products.php",
+		"/C/AppServ/www/hethong/chiadon.php",
+		"/C/AppServ/www/hethong/ajax/diachi.php",
+		"/C/AppServ/www/hethong/banhang_bk.php",
+		"/C/AppServ/www/hethong/banhang.php",
+		"/C/AppServ/www/hethong/finish_sell.php",
+		"/C/Users/Admin/Downloads/Compressed/HTML/forms-advanced.html",
+		"/C/AppServ/www/hethong/ajax/selectsanpham.php",
+		"/C/AppServ/www/hethong/donhangapi.php",
+		"/C/AppServ/www/hethong/function/donhang_smod.php",
+		"/C/AppServ/www/hethong/template/footer.php",
 		"/C/AppServ/www/hethong/api.php",
 		"/C/AppServ/www/hethong/ajax_diachi.php",
 		"/C/AppServ/www/hethong/function/diachi.php",
@@ -257,7 +421,6 @@
 		"/C/AppServ/www/hethong/donchuagiao.php",
 		"/C/AppServ/www/hethong/donthanhcong.php",
 		"/C/AppServ/www/hethong/donthatbai.php",
-		"/C/AppServ/www/hethong/finish_sell.php",
 		"/C/AppServ/www/hethong/hoanhang.php",
 		"/C/AppServ/www/hethong/lichsuhoanhang.php",
 		"/C/AppServ/www/hethong/lichsukhohang.php",
@@ -269,7 +432,6 @@
 		"/C/AppServ/www/hethong/mod/chodoisoat.php",
 		"/C/AppServ/www/hethong/mod/dangapi.php",
 		"/C/AppServ/www/hethong/mod/donchuagiao.php",
-		"/C/AppServ/www/hethong/mod/donhangapi.php",
 		"/C/AppServ/www/hethong/mod/donthanhcong.php",
 		"/C/AppServ/www/hethong/mod/donthatbai.php",
 		"/C/AppServ/www/hethong/mod/index.php",
@@ -284,7 +446,6 @@
 		"/C/AppServ/www/hethong/smod/chodoisoat.php",
 		"/C/AppServ/www/hethong/smod/dangapi.php",
 		"/C/AppServ/www/hethong/smod/donchuagiao.php",
-		"/C/AppServ/www/hethong/smod/donhangapi.php",
 		"/C/AppServ/www/hethong/smod/donthanhcong.php",
 		"/C/AppServ/www/hethong/smod/donthatbai.php",
 		"/C/AppServ/www/hethong/smod/hangbanra.php",
@@ -296,7 +457,6 @@
 		"/C/AppServ/www/hethong/smod/lichsuhoanhang.php",
 		"/C/AppServ/www/hethong/smod/lichsukhohang.php",
 		"/C/AppServ/www/hethong/smod/listteam.php",
-		"/C/AppServ/www/hethong/smod/products.php",
 		"/C/AppServ/www/hethong/smod/users.php",
 		"/C/AppServ/www/hethong/smod/xuatkho.php",
 		"/C/AppServ/www/hethong/xuatexcel.php",
@@ -314,7 +474,6 @@
 		"/C/AppServ/www/hethong/admin/usergroup.php",
 		"/C/AppServ/www/hethong/admin/users.php",
 		"/C/AppServ/www/hethong/bangluong.php",
-		"/C/AppServ/www/hethong/banhang.php",
 		"/C/AppServ/www/hethong/carebill/api_ghtk.php",
 		"/C/AppServ/www/hethong/carebill/donchuagiao.php",
 		"/C/AppServ/www/hethong/carebill/donthanhcong.php",
@@ -322,9 +481,7 @@
 		"/C/AppServ/www/hethong/carebill/index.php",
 		"/C/AppServ/www/hethong/confirm_payment.php",
 		"/C/AppServ/www/hethong/dangapi.php",
-		"/C/AppServ/www/hethong/donhangapi.php",
 		"/C/AppServ/www/hethong/error_log",
-		"/C/AppServ/www/hethong/index.php",
 		"/C/AppServ/www/hethong/khohang.php",
 		"/C/AppServ/www/hethong/mod/xuatexcel.php",
 		"/C/AppServ/www/hethong/profile.php",
@@ -333,48 +490,7 @@
 		"/C/AppServ/www/hethong/template/errors.php",
 		"/C/AppServ/www/hethong/errors.php",
 		"/C/AppServ/www/hethong/function.php",
-		"/C/AppServ/www/hethong/jquery_api.php",
-		"/C/AppServ/www/hethong/menuleft.php",
-		"/C/AppServ/www/hethong/.htaccess",
-		"/C/AppServ/www/hethong/php.php",
-		"/C/AppServ/www/hethong/permission.php",
-		"/C/AppServ/www/hethong/readexcel.php",
-		"/C/AppServ/www/hethong/userbox.php",
-		"/C/AppServ/www/hethong/template/userbox.php",
-		"/C/AppServ/www/hethong/header.php",
-		"/C/AppServ/www/hethong/template/header.php",
-		"/C/AppServ/www/hethong/template/footer.php",
-		"/C/AppServ/www/hethong/footer.php",
-		"/C/AppServ/www/hethong/check_access.php",
-		"/C/AppServ/www/hethong/smod/ajax_thongke.php",
-		"/C/AppServ/www/hethong/smod/footer.php",
-		"/C/AppServ/www/hethong/smod/header.php",
-		"/C/AppServ/www/hethong/smod/menuleft.php",
-		"/C/AppServ/www/hethong/smod/statis.php",
-		"/C/AppServ/www/hethong/smod/userbox.php",
-		"/C/AppServ/www/hethong/function/donhang_smod.php",
-		"/C/AppServ/www/hethong/mod/.htaccess",
-		"/C/AppServ/www/hethong/mod/menuleft.php",
-		"/C/AppServ/www/hethong/config.php",
-		"/C/AppServ/www/hethong/function/products.php",
-		"/C/AppServ/www/hethong/login.php",
-		"/C/AppServ/www/hethong/signin.php",
-		"/C/AppServ/www/hethong/fake.php",
-		"/C/AppServ/www/hethong/mod/ajax_test.php",
-		"/C/AppServ/www/hethong/function/function.php",
-		"/C/AppServ/www/hethong/function/jquery_donhang.php",
-		"/C/AppServ/www/hethong/ajax/donhang.php",
-		"/C/AppServ/www/hethong/smod/ajax_donhang.php",
-		"/C/AppServ/www/hethong/ajax_donhang.php",
-		"/C/AppServ/www/hethong/function/js_donhang.php",
-		"/C/AppServ/www/hethong/ajax/error_log",
-		"/C/AppServ/www/hethong/smod/.htaccess",
-		"/C/AppServ/www/hethong/smod/ajax_thongkekhohang.php",
-		"/C/AppServ/www/hethong/ajax/thongkekhohang.php",
-		"/C/AppServ/www/hethong/smod/ajax_hoanhang.php",
-		"/C/AppServ/www/hethong/ajax/hoanhang.php",
-		"/C/AppServ/www/hethong/smod/ajax_xuatkho.php",
-		"/C/AppServ/www/hethong/ajax/xuatkho.php"
+		"/C/AppServ/www/hethong/jquery_api.php"
 	],
 	"find":
 	{
@@ -394,6 +510,58 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"{$lastmonth}-20",
+			"id_nhanvien =",
+			"file",
+			"donhang_khachung",
+			"div_khachung",
+			"div_edit_donhang",
+			"donhang",
+			"CHƯA ĐƯỢC DUYỆT",
+			"loadingdiv",
+			"tongtien",
+			"thongtindonhang",
+			"loading",
+			"diachi",
+			"</div><hr />",
+			"profile.php",
+			"profile+",
+			"src=\"",
+			"url :",
+			"url : \"",
+			"url: '",
+			"../menuleft",
+			"include(\"..",
+			"include(\"../../",
+			"include(\"..",
+			"include(\"../..",
+			"include(\"../..\\",
+			"include(\"../../",
+			"<?php include(\"../../template/footer.php\");?>",
+			"include(\"../",
+			"include(\"..",
+			"include(\"../../",
+			"userbox",
+			"include",
+			"include(\"",
+			"ghtk_id",
+			"status_ma_ghtk",
+			"status_ma_ghtk\n",
+			"status_ma_ghtk",
+			"info_ghtk",
+			"getNameProduct",
+			"fullname",
+			"loadingdiv",
+			"getaddress",
+			"\\\"",
+			"change_ghichu",
+			"\\\"",
+			"\"",
+			"spinner",
+			"spiner",
+			"\"",
+			"div data-plugin-spinner",
+			"list_sanpham",
 			"selectsanpham",
 			"ajax_diachi.php",
 			"errors.php",
@@ -473,6 +641,16 @@
 		"regex": false,
 		"replace_history":
 		[
+			"{$lastmonth}-31",
+			"carebill =",
+			"CHƯA DUYỆT",
+			"</div>",
+			"url : \"../",
+			"url: '../",
+			"menuleft",
+			"include(\"../",
+			"\"",
+			"\\\"",
 			"ajax/diachi.php",
 			"function/diachi.php",
 			"template/errors.php",
@@ -508,24 +686,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "banhang_bk.php",
+					"file": "function/donhang_smod.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9328,
+						"buffer_size": 20572,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5168,
-								5168
+								4738,
+								4738
 							]
 						],
 						"settings":
@@ -536,12 +714,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										7940,
+										7941
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										7904,
+										7905
+									]
 								},
 								"unmatched":
 								{
@@ -549,41 +742,6 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -594,59 +752,11 @@
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										5163,
-										5167
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										5017,
-										5021
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -657,396 +767,21 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2374.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "banhang.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 17459,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								17226,
-								17238
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-									"1":
-									[
-										17272,
-										17276
-									]
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										17281,
-										17282
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										17225,
-										17226
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"open_with_edit": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 8921.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "ajax/selectsanpham.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 213,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								115,
-								115
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										183,
-										184
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										99,
-										100
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -1057,71 +792,20 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content"
 							],
-							"open_with_edit": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "ajax/diachi.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 879,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								750,
-								750
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
+							"bracket_highlighter.locations":
 							{
 								"close":
 								{
 									"1":
 									[
-										871,
-										872
+										4786,
+										4787
 									]
 								},
 								"icon":
@@ -1136,96 +820,8 @@
 								{
 									"1":
 									[
-										758,
-										759
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										750,
-										751
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"region.yellowish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										743,
-										744
+										4608,
+										4609
 									]
 								},
 								"unmatched":
@@ -1234,16 +830,21 @@
 							},
 							"bracket_highlighter.regions":
 							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1254,16 +855,6 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1274,566 +865,52 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "function/api.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9212,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								18,
-								18
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										34,
-										35
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										34,
-										35
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										14,
-										15
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 337.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "function/function.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8922,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1977,
-								1977
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1994,
-										1995
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										1951,
-										1952
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 342.0,
+						"translation.y": 1763.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "assets/stylesheets/theme.css",
+					"buffer": 1,
+					"file": "/C/Users/Admin/Downloads/Compressed/HTML/forms-advanced.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 361141,
+						"buffer_size": 75620,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								293710,
-								293710
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										293714,
-										293715
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										293693,
-										293694
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 274331.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/Users/Admin/Downloads/Compressed/HTML/forms-wizard.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 50837,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								30566,
-								36085
+								57182,
+								56196
 							]
 						],
 						"settings":
@@ -1872,41 +949,6 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -1917,18 +959,378 @@
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										57178,
+										57181
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										56197,
+										56200
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 27451.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "template/userbox.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2666,
+								2666
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2500,
+										2503
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1,
+										4
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2683,
+										2684
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2663,
+										2664
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "check_access.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
 							{
 								"close":
 								{
@@ -1941,50 +1343,10 @@
 								},
 								"unmatched":
 								{
-									"1":
-									[
-										30567,
-										30570
-									]
 								}
 							},
-							"bracket_highlighter.regions":
+							"bracket_highlighter.clone_regions":
 							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -1995,25 +1357,1049 @@
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1058,
+										1059
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										349,
+										350
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 20172.0,
+						"translation.y": 114.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "smod/donhangapi.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11226,
+								11236
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										11236,
+										11237
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										11225,
+										11226
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5923.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "function/jquery_donhang.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21748,
+								21748
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										21748,
+										21749
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										21732,
+										21733
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Admin/AppData/Local/Temp/~flashfxp/82F41D7A_edit.tmp/hangbanra.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6204,
+								6212
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										6211,
+										6212
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										6204,
+										6205
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 722.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ajax/donhang.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28375,
+								28375
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										29442,
+										29443
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										29421,
+										29422
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										28485,
+										28486
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										27801,
+										27802
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 15287.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "ajax/users.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 12790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1420,
+								2476
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2474,
+										2475
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1251,
+										1252
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -2051,6 +2437,10 @@
 	},
 	"menu_visible": true,
 	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
 	{
 		"height": 0.0
 	},

@@ -464,7 +464,7 @@ var table = $('#table_donhang').DataTable();
                     type : "post",
                     dataType:"text",
                     data : {
-                    	status_ma_ghtk : value,
+                    	ghtk_id : value,
                     	
                     },
                     success : function (result){
@@ -751,4 +751,42 @@ function update_fixapiwithmadh(mdh)
                     }
                 });
             }
+ function xacnhanung(value){
+
+                  $.ajax({
+                    url : "../ajax/donhang.php",
+                    type : "post",
+                    dataType:"text",
+                    data : {
+                    	donhang_khachung : value,
+                    	
+                    },
+                    success : function (result){
+                    	$('#div_khachung').html(result)
+                    }
+                });
+}
+//Xác Nhận Ứng
+$("form#xacnhanung").submit(function(){
+
+    var formData = new FormData(this);
+
+    $.ajax({
+        url: '../ajax/donhang.php',
+        type: 'POST',
+        data: formData,
+        async: false,
+        success: function (data) {
+             
+           $('.mfp-ready').remove();
+             $('#test_result').html(data);
+
+        },
+        cache: false,
+        contentType: false,
+        processData: false
+    });
+
+    return false;
+});            
 </script>

@@ -1,6 +1,6 @@
 <?php
 include("../db.php");
-include("../config.php");
+include("../check_access.php");
 include("../function/function.php");
 if(isset($_POST['id_tinh']))
 {
@@ -110,7 +110,6 @@ $(document).ready( () => {
 }
 if(isset($_GET['do']) && $_GET['do'] =="banhang")
 {
-  /*
   $today_sql = date('Y-m-d');
   $thismonth = date("Y-m");
 
@@ -134,17 +133,18 @@ if(isset($_GET['do']) && $_GET['do'] =="banhang")
                       if(isset($_POST['diachi']))$diachi = $_POST['diachi'];else $diachi = "";
                       if(isset($_POST['page']))$page = $_POST['page'];else $page = "";
                       if(isset($_POST['ghichu']))$ghichu = $_POST['ghichu'];else $ghichu = "";
+                      if(isset($_POST['tamung']))$tamung = $_POST['tamung'];else $tamung = 0;
                       if(isset($_POST['add_tinh']))$add_tinh = $_POST['add_tinh'];else $add_tinh="NULL";
                       if(isset($_POST['add_huyen']))$add_huyen = $_POST['add_huyen'];else $add_huyen="NULL";
-                      if($add_tinh !="NULL"){$diachi_tinh = getaddress('add_tinh',$add_tinh);}else $diachi_tinh = "NULL";
-                      if($add_huyen !="NULL"){$diachi_huyen = getaddress('add_huyen',$add_huyen);}else $diachi_huyen = "NULL";
                        unset($_POST['tenkhachhang']);
                        unset($_POST['sdtkhachhang']);
                        unset($_POST['diachi']);
+                       unset($_POST['page']);
+                       unset($_POST['tamung']);
                        unset($_POST['add_tinh']);
                        unset($_POST['add_huyen']);
                        unset($_POST['ghichu']);
-                      
+                      $diachidaydu = $diachi."-".$add_huyen."-".$add_tinh;
                       $madonhang[1] = "TK";
                       $donhang = "";
                       $tongtien = 0;
@@ -174,10 +174,7 @@ if(isset($_GET['do']) && $_GET['do'] =="banhang")
                         $donhang .= $tensanpham." : <b>".$value." bộ </b><br>";
                         $sanpham .=$key."-".$value."|";
                         $tongsanpham+=$value;
-                        if($tongsanpham >= $freeship)
-                         $phiship = 0;
-                         else
-                         $phiship = 30000; 
+                        
                       }
                     }
                     elseif($count_sp = 1)
@@ -189,7 +186,7 @@ if(isset($_GET['do']) && $_GET['do'] =="banhang")
                         $masanpham = $kq['masanpham'];
                         $size = $kq['size'];
                         $tensanpham = $masanpham." ".$size;
-                        $sql = mysql_query("select giaban from masanpham where masanpham='{$masanpham}'");
+                        $sql = mysql_query("select giaban,giale from masanpham where masanpham='{$masanpham}'");
                         $kq = mysql_fetch_array($sql);
                         if($value >1 )
                         $gia = $kq['giaban'];
@@ -203,12 +200,14 @@ if(isset($_GET['do']) && $_GET['do'] =="banhang")
                         $donhang_html.=$donhang_html_a;
                         $donhang .= $tensanpham." : <b>".$value." bộ </b><br>";
                         $sanpham .=$key."-".$value."|";
-                        if($value >= $freeship)
+                        $tongsanpham+=$value;
+                      }
+                    }       
+                       if($tongsanpham >= $freeship)
                          $phiship = 0;
                          else
-                         $phiship = 30000; 
-                      }
-                    }           
+                         $phiship = 30000;
+                         $show_phiship = number_format($phiship);
                     //Nhân viên chăm đơn
                       $array_list_user = array();
                       $a = mysql_query("select id from user where groupid ='7'");
@@ -234,9 +233,11 @@ if(isset($_GET['do']) && $_GET['do'] =="banhang")
                         $nhanviencarebill = $key_max;
                       $tennhanviencarebill = getname($nhanviencarebill);
                     //        
+
+                      //
                       $tongtien += $phiship;
                       $show_tongtien = number_format($tongtien);
-                      $donhang = rtrim($donhang,"|");
+                      $sanpham = rtrim($sanpham,"|");
                       $madonhang[0] = $mavandon_team;
                       $madonhang[2] = date('dm');
                       $madonhang[3] = $mavandon_nhanvien;
@@ -248,8 +249,8 @@ if(isset($_GET['do']) && $_GET['do'] =="banhang")
                       $madonhang = $madonhang[0].$madonhang[1].$madonhang[2].$madonhang[3].$madonhang[4];
                       $today_donhang = date("Y-m-d H:i:s");
 
-                      $insert_a = "madonhang,nhanvien,id_nhanvien,khachhang,thoigian,diachi,sdt,sanpham,phiship,tongtien,ghichu,carebill";
-$insert_b = "'{$madonhang}','{$username}','{$id_nhanvien}','{$tenkhachhang}','{$today_donhang}','{$diachi}','{$sdtkhachhang}','{$donhang}','{$phiship}','{$tongtien}','{$ghichu}','{$nhanviencarebill}'";
+                      $insert_a = "madonhang,nhanvien,id_nhanvien,khachhang,thoigian,diachi,sdt,sanpham,donhang,phiship,tamung,tongtien,ghichu,carebill,page";
+$insert_b = "'{$madonhang}','{$username}','{$id_nhanvien}','{$tenkhachhang}','{$today_donhang}','{$diachidaydu}','{$sdtkhachhang}','{$sanpham}','{$donhang}','{$phiship}','{$tamung}','{$tongtien}','{$ghichu}','{$nhanviencarebill}','{$page}'";
 $do = mysql_query("insert into donhang ({$insert_a}) values ({$insert_b})");
                       
                       //Check members
@@ -278,67 +279,76 @@ echo "
                         <div class='col-md-9'>
                           <input class='col-md-12 input_confirm' name='tenkhachhang' value='{$madonhang}' />
                         </div>
-                      </div><hr />
+                      </div>
                        <div class='form-group'>
                         <label class='col-md-3 control-label'>Nhân viên bán hàng</label>
                         <div class='col-md-9'>
                           <input class='col-md-12 input_confirm' name='tenkhachhang' value='{$fullname}' />
                         </div>
-                      </div><hr />
+                      </div>
                       <div class='form-group'>
                         <label class='col-md-3 control-label'>Nhân viên chăm sóc đơn hàng</label>
                         <div class='col-md-9'>
                           <input class='col-md-12 input_confirm' name='tenkhachhang' value='{$tennhanviencarebill}' />
                         </div>
-                      </div><hr />
+                      </div>
                       <div class='form-group'>
                         <label class='col-md-3 control-label'>Tên Khách Hàng</label>
                         <div class='col-md-9'>
                           <input class='col-md-12 input_confirm' name='tenkhachhang' value='{$tenkhachhang}' />
                         </div>
-                      </div><hr />
+                      </div>
 
                       <div class='form-group'>
                         <label class='col-md-3 control-label'>Địa chỉ Khách Hàng</label>
                         <div class='col-md-9'>
-                          <input class='col-md-12 input_confirm' name='tenkhachhang' value='{$diachi}' />
+                          <input class='col-md-12 input_confirm' name='tenkhachhang' value='{$diachidaydu}' />
                         </div>
-                      </div><hr />
+                      </div>
                       <div class='form-group'>
                         <label class='col-md-3 control-label'>Số Điện Thoại Khách Hàng</label>
                         <div class='col-md-9'>
                           <input class='col-md-12 input_confirm' name='tenkhachhang' value='{$sdtkhachhang}' />
-                        </div><hr />
-                      </div><hr />
-                      <div class='form-group'>
+                        </div>
+                      </div>
+                      <div class='form-group' style='border:1px dashed #0000004F'>
                         <label class='col-md-3 control-label'>Đơn Hàng</label>
                         <div class='col-md-9' style='text-align:right'>
                           {$donhang_html}
                         </div>
-                      </div><hr />
+                      </div>
                       <div class='form-group'>
                         <label class='col-md-3 control-label'>Phí Ship</label>
                         <div class='col-md-9'>
                           <input class='col-md-12 input_confirm' name='tenkhachhang' value='{$show_phiship} Đ' />
                         </div>
-                      </div><hr />
+                      </div>
                       <div class='form-group'>
                         <label class='col-md-3 control-label'>Tổng Tiền</label>
                         <div class='col-md-9'>
                           <input class='col-md-12 input_confirm' name='tenkhachhang' value='{$show_tongtien} Đ' />
                         </div>
-                      </div><hr />
+                      </div>
+                      <div class='form-group'>
+                        <label class='col-md-3 control-label'>Khách Ứng Trước</label>
+                        <div class='col-md-9'>
+                          <input class='col-md-12 input_confirm' name='tenkhachhang' value='{$tamung} Đ' />
+                        </div>
+                      </div>
+                      <div class='form-group'>
+                        <label class='col-md-3 control-label'>Page Bán Hàng</label>
+                        <div class='col-md-9'>
+                          <input class='col-md-12 input_confirm' value='{$page}' />
+                        </div>
+                      </div>
                       <div class='form-group'>
                         <label class='col-md-3 control-label'>Ghi Chú</label>
                         <div class='col-md-9'>
-                          <input class='col-md-12' style='height: 100px;border: black 1px solid;color: black;font-weight: 600;font-size: 20px;' type='textarea' name='tenkhachhang' value='{$ghichu}' />
+                          <input class='col-md-12 input_confirm' value='{$ghichu}' />
                         </div>
                       </div>
-                      <hr />
-                      <a class='col-md-12 mb-xs mt-xs mr-xs btn btn-danger' href='banhang.php'><i class='fa fa-home'></i> VỀ TRANG BÁN HÀNG</a>
+                      <a class='col-md-12 mb-xs mt-xs mr-xs btn btn-danger' href='banhang'><i class='fa fa-home'></i> VỀ TRANG BÁN HÀNG</a>
                       ";
 }
-*/
-echo "123123";
 }
 ?>

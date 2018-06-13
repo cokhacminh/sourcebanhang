@@ -1,7 +1,7 @@
 <?php
 include("../function/function.php");
 include("../check_access.php");
-include("../api.php");
+include("../function/api.php");
 if(isset($_POST['donhang']))
 {
 	$donhang = $_POST['donhang'];
@@ -782,5 +782,88 @@ if(isset($_POST['fixapi']))
 	
 	
 }
-if(isset($_POST))
+//
+if(isset($_POST['donhang_khachung']))
+{
+	$donhang = $_POST['donhang_khachung'];
+	$iddonhang = $donhang;
+	$query = mysql_query("select * from donhang where id='{$iddonhang}'");
+	$kq = mysql_fetch_array($query);
+	$tamung = $kq['tamung'];
+	$smod_check_tamung = $kq['smod'];
+	if($tamung > 0 && $smod_check_tamung == 0)
+	{
+	echo "
+		<div class=\"panel-body\">
+			<div class=\"form-group mt-lg\" style\"text-align:center\">
+				Tiền Khách Ứng :
+				
+					<input type=\"text\" name=\"token\" value=\"edit\" style=\"display:none\" />
+					<input type=\"text\" name=\"xacnhanung\" value=\"{$iddonhang}\" style=\"display:none\" />
+					<input type=\"number\" name=\"tamung\" class=\"form-control\" value=\"{$tamung}\" style=\"width:200px;display:inline\" >
+				
+			</div>
+			<div class=\"form-group\">
+				<div class=\"col-sm-12\" style=\"text-align: center\">
+					<button class=\"btn btn-primary\">Xác Nhận</button> <button class=\"btn btn-danger\" data-dismiss=\"modal\">Hủy</button>
+				</div>
+			</div>
+		</div>
+	";
+	}
+}
+if(isset($_POST['xacnhanung']))
+{
+	$iddonhang = $_POST['xacnhanung'];
+	$a = mysql_query("select madonhang from donhang where id='{$iddonhang}'");
+	$b = mysql_fetch_array($a);
+	$madonhang = $b['madonhang'];
+	$tamung = $_POST['tamung'];
+	$tientamung = number_format($tamung);
+	$do = mysql_query("update donhang set tamung='{$tamung}',smod='{$id_nhanvien}' where id='{$iddonhang}'");
+	if($do)
+  	{
+	  $date = date("d-m-Y");
+	  $text_date = date("H:i:s - d/m/Y");
+	  $file_name = $date.".txt";
+	  $dir_file = "../admin/logs/donhang/".$file_name;
+	  $file = fopen($dir_file,'a');
+	  $text = $text_date." : ".$fullname." Đã xác nhận khách tạm ứng ".$tientamung." cho đơn hàng {$madonhang} - ID : {$iddonhang}.\n";
+	  fwrite($file,$text);
+	  fclose($file);
+	   echo "
+	<script>
+	swal({
+	  title: 'HOÀN TẤT',
+	  text: 'Đã xác nhận khách ứng {$tientamung} cho đơn hàng {$madonhang} !',
+	  type: 'success',
+	  showCancelButton: false,
+	  confirmButtonColor: '#3085d6',
+	  cancelButtonColor: '#d33',
+	  confirmButtonText: 'OK !!!'
+	})
+	.then(function () {
+	location.reload();
+	})
+	</script>
+	  ";
+	}
+  else echo "
+<script>
+swal({
+  title: 'CÓ LỖI',
+  text: 'Vui lòng kiểm tra dữ lại dữ liệu nhập vào . ',
+  type: 'warning',
+  showCancelButton: false,
+  confirmButtonColor: '#3085d6',
+  cancelButtonColor: '#d33',
+  confirmButtonText: 'OK !!!'
+})
+.then(function () {
+location.reload();
+})
+</script>
+    ";
+ 
+}
 ?>

@@ -83,7 +83,7 @@
 <script type="text/javascript">
             function lockscreen(){
                 $.ajax({
-                    url : "<?php echo $site_url;?>/check_access.php",
+                    url : "../check_access.php",
                     type : "get",
                     dataType:"text",
                     data : {
@@ -98,7 +98,7 @@
            
             function logout(){
                 $.ajax({
-                    url : "<?php echo $site_url;?>/check_access.php",
+                    url : "../check_access.php",
                     type : "get",
                     dataType:"text",
                     data : {

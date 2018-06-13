@@ -159,11 +159,11 @@ include("../function/donhang_smod.php");
 				<th style="width: 50px;text-align: center">Mã Đơn</th>
 				<th style="width: 150px;text-align: center">Nhân Viên</th>
 				<th style="min-width:150px;text-align: center">Khách Hàng</th>
-				<th style="min-width: 150px;text-align: center">Mua Hàng</th>
-				<th style="min-width: 40px;text-align: center">Tổng Tiền</th>
+				<th style="min-width: 100px;text-align: center">Mua Hàng</th>
+				<th style="min-width: 150px;text-align: center">Tổng Tiền</th>
 				<th style="min-width: 40px;text-align: center">Page/Trang</th>
 				<th style="width: 150px;text-align: center">Ghi Chú</th>
-				<th style="min-width: 100px;;text-align: center">Trạng Thái</th>
+				<th style="min-width: 150px;;text-align: center">Trạng Thái</th>
 			</tr>
 		</thead>
 		<tbody id="list_products" style="vertical-align: middle;text-align: center">
@@ -275,13 +275,13 @@ $danhsachdonhang = danhsachdonhang($fromdate,$todate);
 			<tr>
 				<th style="width: 50px;text-align: center">ThờiGian</th>
 				<th style="width: 50px;text-align: center">Mã Đơn</th>
-				<th style="width: 50px;text-align: center">Nhân Viên</th>
+				<th style="width: 150px;text-align: center">Nhân Viên</th>
 				<th style="min-width:150px;text-align: center">Khách Hàng</th>
-				<th style="min-width: 150px;text-align: center">Mua Hàng</th>
-				<th style="min-width: 40px;text-align: center">Tổng Tiền</th>
+				<th style="min-width: 100px;text-align: center">Mua Hàng</th>
+				<th style="min-width: 150px;text-align: center">Tổng Tiền</th>
 				<th style="min-width: 40px;text-align: center">Page/Trang</th>
 				<th style="width: 150px;text-align: center">Ghi Chú</th>
-				<th style="min-width: 100px;;text-align: center">Trạng Thái</th>
+				<th style="min-width: 150px;;text-align: center">Trạng Thái</th>
 			</tr>
 		</thead>
 		<tbody id="list_products" style="vertical-align: middle;text-align: center">
@@ -295,12 +295,10 @@ $danhsachdonhang = danhsachdonhang($fromdate,$todate);
 							</div>
 							</div>
 <?php endif; ?>					
-
+<!--Modal Edit Đơn Hàng-->
 <div id="Form_edit_donhang" class="modal fade" role="dialog">
 	<form id="edit_donhang" action="" method="post" enctype="multipart/form-data">	
   <div class="modal-dialog">
-
-    <!-- Modal content-->
     <div class="modal-content" id="div_edit_donhang" style="width: 900px">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -317,6 +315,29 @@ $danhsachdonhang = danhsachdonhang($fromdate,$todate);
   </div>
 </form>
 </div>
+<!-- Kết Thúc Edit Đơn Hàng-->
+
+    <!--Modal Xác Nhận Khách Ứng-->
+<div id="Form_khachung" class="modal fade" role="dialog" style="margin: 0 auto;width: 500px">
+	<form id="xacnhanung" action="" method="post" enctype="multipart/form-data">	
+  <div class="modal-dialog">
+    <div class="modal-content" id="div_khachung" style="width: 500px;text-align: center;margin-top:150px">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Nhập Hàng</h4>
+      </div>
+      <div class="modal-body">
+        <p>Some text in the modal.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</form>
+</div>
+    <!-- Kết Thúc Xác Nhận Khách Ứng-->
 				<!-- end: page -->
 				</section>
 			</div>
