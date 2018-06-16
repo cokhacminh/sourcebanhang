@@ -318,7 +318,36 @@ $danhsachdonhang = danhsachdonhang($fromdate,$todate);
 </div>
     <!-- Kết Thúc Modal Edit Đơn Hàng-->
 
+<!--Modal Gui Ho Tro-->
+<div id="Form_guihotro" class="modal fade" role="dialog">
+	<form id="sendticket" action="" method="post" enctype="multipart/form-data">	
+  <div class="modal-dialog">
+    <div class="modal-content" id="div_sendticket" style="">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">GỬI YÊU CẦU HỖ TRỢ</h4>
+      </div>
+      <div class="modal-body">
+       <div class="form-group mt-lg">
+				<label class="col-sm-3 control-label">Khách Hàng</label>
+				<div class="col-sm-9">
+					<input type="text" name="token" value="edit" style="display:none" />
+					<input type="text" name="iddonhang" value="{$iddonhang}" style="display:none" />
+					<input type="text" name="madonhang" class="form-control" value="{$madonhang}" style="display:none" disabled/>
+					<input type="text" name="nhanvien" class="form-control" value="{$tennhanvien}" style="display:none" disabled>
+					<input type="text" name="khachhang" class="form-control" value="{$khachhang}" >
+				</div>
+			</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
 
+  </div>
+</form>
+</div>
+    <!-- Kết Thúc Modal Edit Đơn Hàng-->
 
 				<!-- end: page -->
 				</section>

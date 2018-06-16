@@ -301,4 +301,9 @@ function taoformselectpage(){
     }
     return $form_select;
 }
+function laymadonhang($id){
+    $a = mysql_query("select madonhang from donhang where id = '{$id}'");
+    $b = mysql_fetch_array($a);
+    return $b['madonhang'];
+}
 ?>

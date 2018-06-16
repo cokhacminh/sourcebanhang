@@ -14,3 +14,5 @@ RewriteRule ^khohang$ khohang.php
 RewriteRule ^hoanhang$ hoanhang.php
 RewriteRule ^thongkehanghoan$ lichsuhoanhang.php
 RewriteRule ^bangluong$ bangluong.php
+RewriteRule ^ticket$ ticket.php
+RewriteRule ^khieunai$ khieunai.php

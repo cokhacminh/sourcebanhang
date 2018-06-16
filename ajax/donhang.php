@@ -402,10 +402,9 @@ if(isset($_POST['searchdonhang']))
 											<th>Mã Đơn Hàng</th>
 											<th style=\"text-align: center\">Nhân Viên</th>
 											<th style=\"text-align: center\">Khách Hàng</th>
-											<th>Địa Chỉ</th>
-											<th style=\"text-align: center\">Số Điện Thoại</th>
 											<th style=\"min-width: 150px;text-align: center\">Mua Hàng</th>
-											<th style=\"min-width: 80px;text-align: center\">Tổng Tiền</th>
+											<th style=\"min-width: 150px;text-align: center\">Tổng Tiền</th>
+											<th style=\"min-width: 150px;text-align: center\">Page Bán Hàng</th>
 											<th style=\"min-width: 80px;text-align: center\">Ghi Chú</th>
 											<th style=\"min-width: 110px;text-align: center\">Thao Tác</th>
 
@@ -419,12 +418,16 @@ while($do = mysql_fetch_array($sql))
 											$id = $do['id'];
 											$madonhang = $do['madonhang'];
 											$ghtk = $do['ghtk'];
-											$khachhang = $do['khachhang'];
+											$tenkhachhang = $do['khachhang'];
 											$nhanvien = $do['nhanvien'];
 											$tennhanvien = getnamebyusername($nhanvien);
 											$diachi = $do['diachi'];
 											$sdt = $do['sdt'];
 											$sanpham = $do['sanpham'];
+											$tamung = $do['tamung'];
+											$khachungtruoc = number_format($tamung);
+											$smod_check_tamung = $do['smod'];
+											$ten_smod_check_tamung = getname($smod_check_tamung);
 											//Duyệt đơn hàng
 											$donhang = "";
 											$tach_a = explode("|", $sanpham);
@@ -449,6 +452,7 @@ while($do = mysql_fetch_array($sql))
 											$status_id = $do['status_id'];
 											$trangthaiapi = $api_status_id[$status_id];
 											$goihang = $do['goihang'];
+											$page = $do['page'];
 		if($quyenhan['smod']=="1")
 		{
 			//Button Gói Hàng
@@ -465,18 +469,79 @@ while($do = mysql_fetch_array($sql))
 			elseif($ghtk !="" and $goihang =="0") $button3 = "<a data-toggle=\"modal\" data-target=\"#Form_edit_donhang\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-success\" onclick=\"suadonhang('{$id}')\"> Sửa</a><a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhangapi({$id})'>Xóa Đơn</a>";
 			elseif($ghtk !="" and $goihang =="1") $button3 = "<a data-toggle=\"modal\" data-target=\"#Form_edit_donhang\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-success\" onclick=\"suadonhang('{$id}')\"> Sửa</a><a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='huydonhang({$id})'>Huỷ Đơn</a>";
 			$button = $button1.$button2.$button3;
+				//Button Tạm Ứng
+					if($tamung !=0)
+					{
+						if($smod_check_tamung == 0)
+							$button_tamung = "<a data-toggle=\"modal\" data-target=\"#Form_khachung\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-danger\" onclick=\"xacnhanung('{$id}')\"> Xác Nhận</a>";
+						else
+							$button_tamung = "Nguời xác nhận : <b><font color=\"red\">".$ten_smod_check_tamung."</font></b>";	
+					}
+					else
+						$button_tamung = "";
 		}
+
+elseif(($quyenhan['smod']=="0" or $quyenhan['smod'] == "") && $quyenhan['mod'] =="1")	
+{
+	//Button Gói Hàng	
+	if($do['goihang'] ==0)$button1 = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-default'>Chưa gói hàng</a><br />";
+	else $button1 = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-success'>Đã gói hàng</a><br />";
+	//Button Trạng Thái Đơn Hàng
+	if($ghtk =="")
+		$button2 = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-default' onclick='api_id({$id})'>Đăng API</a><br />";
+	else
+		$button2 = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-primary' onclick='info_ghtk({$id})'>{$trangthaiapi}</a><br />";
+	//Button Chỉnh Sửa / Xoá / Huỷ
+	if($ghtk =="")
+		$button3 = "<a data-toggle=\"modal\" data-target=\"#Form_edit_donhang\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-success\" onclick=\"suadonhang('{$id}')\"> Sửa</a><a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhang({$id})'>Xóa</a>";
+	elseif($ghtk !="" and $goihang =="0") $button3 = "<a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhangapi({$id})'>Xóa Đơn</a>";
+	$button = $button1.$button2.$button3;	
+	//Button Tạm Ứng
+	if($tamung !=0)
+	{
+		if($smod_check_tamung == 0)
+			$button_tamung = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-default'>CHƯA DUYỆT</a>";
 		else
-		{
-			if($do['goihang'] ==0)$button1 = "<a class=\"mb-xs mt-xs mr-xs btn btn-sm btn-default\">Chưa gói hàng</a><br />";
-			else $button1 = "<a class=\"mb-xs mt-xs mr-xs btn btn-sm btn-success\">Đã gói hàng</a><br />";
-			$button2 = "<a class=\"mb-xs mt-xs mr-xs btn btn-sm btn-primary\" onclick=\"info_ghtk({$id})\">{$trangthaiapi}</a><br />";
-			if($ghtk =="")
-			$button = $button1.$button2;
-		}
+			$button_tamung = "Nguời xác nhận : <b><font color=\"red\">".$ten_smod_check_tamung."</font></b>";	
+	}
+	else
+		$button_tamung = "";
+	
+	
+}
+if(($quyenhan['smod']=="0" or $quyenhan['smod'] == "") && ($quyenhan['mod'] =="0" or $quyenhan['mod'] =="") && $quyenhan['banhang'] =="1")	
+{
+	//Button Gói Hàng	
+	if($do['goihang'] ==0)$button1 = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-default'>Chưa gói hàng</a><br />";
+	else $button1 = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-success'>Đã gói hàng</a><br />";
+	//Button Trạng Thái Đơn Hàng
+	if($ghtk =="")
+		$button2 = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-default' onclick='api_id({$id})'>Đăng API</a><br />";
+	else
+		$button2 = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-primary' onclick='info_ghtk({$id})'>{$trangthaiapi}</a><br />";
+	//Button Chỉnh Sửa / Xoá / Huỷ
+	if($ghtk =="")
+		$button3 = "<a data-toggle=\"modal\" data-target=\"#Form_edit_donhang\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-success\" onclick=\"suadonhang('{$id}')\"> Sửa</a><a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhang({$id})'>Xóa</a>";
+	elseif($ghtk !="" and $goihang =="0") $button3 = "<a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhangapi({$id})'>Xóa Đơn</a>";
+	$button = $button1.$button2.$button3;
+	//Button Tạm Ứng
+	if($tamung !=0)
+	{
+		if($smod_check_tamung == 0)
+			$button_tamung = "<a class='mb-xs mt-xs mr-xs btn btn-sm btn-default'>CHƯA DUYỆT</a>";
+		else
+			$button_tamung = "Nguời xác nhận : <b><font color=\"red\">".$ten_smod_check_tamung."</font></b>";	
+	}
+	else
+		$button_tamung = "";
+		
+}
 
 			
 			$ghichu = $do['ghichu'];
+			$khachungtruoc = "Khách ứng : <b><font color=\"red\">".number_format($tamung)."</font></b>";
+			$tongtien .= "<br />".$khachungtruoc."<br />".$button_tamung;
+			$khachhang = "<div style='text-align:left;font-size:15px;'>Tên : ".$tenkhachhang."<br />"."Đ/c :".$diachi."<br />"."SDT : <b><font color='red' size='4'>".$sdt."</font></b></div>";
 											
 
 echo "
@@ -485,10 +550,9 @@ echo "
 											<td style=\"vertical-align: middle;text-align:center\">{$madonhang}<br /><b><font color=\"red\">{$ghtk}</font></b></td>
 											<td style=\"vertical-align: middle;text-align:center\">{$tennhanvien}</td>
 											<td style=\"vertical-align: middle;text-align:center\">{$khachhang}</td>
-											<td style=\"vertical-align: middle;text-align:center\">{$diachi}</td>
-											<td style=\"vertical-align: middle;text-align:center\">{$sdt}</td>
 											<td style=\"vertical-align: middle;text-align:center\">{$donhang}</td>
 											<td style=\"vertical-align: middle;text-align:center\">{$tongtien}</td>
+											<td style=\"vertical-align: middle;text-align:center\">{$page}</td>
 											<td style=\"vertical-align: middle;text-align:center\">{$ghichu}</td>
 											<td style=\"vertical-align: middle;text-align:center\">{$button}</td>
 										</tr>
@@ -820,6 +884,7 @@ if(isset($_POST['xacnhanung']))
 	$madonhang = $b['madonhang'];
 	$tamung = $_POST['tamung'];
 	$tientamung = number_format($tamung);
+
 	$do = mysql_query("update donhang set tamung='{$tamung}',smod='{$id_nhanvien}' where id='{$iddonhang}'");
 	if($do)
   	{
@@ -865,5 +930,59 @@ location.reload();
 </script>
     ";
  
+}
+///////////
+if(isset($_POST['sendticket']))
+{
+	$id = $_POST['sendticket'];
+	echo "
+		<div class=\"panel-body\">
+			<div class=\"form-group\">
+				
+				<div class=\"col-sm-12\">
+					<textarea name=\"ghichu\" rows=\"5\" class=\"form-control\"></textarea>
+				</div>
+				<input type=\"text\" name=\"sticketid\" value=\"{$id}\" style=\"display:none\" />
+			</div>
+			<div class=\"form-group\">
+				<div class=\"col-sm-12\" style=\"text-align: center\">
+					<button class=\"btn btn-primary\">Gửi Yêu Cầu</button> <button class=\"btn btn-danger\" data-dismiss=\"modal\">Hủy</button>
+				</div>
+			</div>
+		</div>
+	";
+}
+if(isset($_POST['sticketid']))
+{
+	$id_donhang = $_POST['sticketid'];
+	$ghichu = $_POST['ghichu'];
+	$do = mysql_query("insert into ticket (id_donhang,id_nhanvien,ghichu) values ('{$id_donhang}','{$id_nhanvien}','{$ghichu}')");
+	if($do)
+		echo "<script>
+	swal({
+	  title: 'ĐÃ GỬI YÊU CẦU HỖ TRỢ ĐẾN QUẢN LÝ CẤP CAO',
+	  type: 'success',
+	  showCancelButton: false,
+	  confirmButtonColor: '#3085d6',
+	  cancelButtonColor: '#d33',
+	  confirmButtonText: 'OK !!!'
+	})
+	.then(function () {
+	location.reload();
+	})
+	</script>";
+	else echo "<script>
+	swal({
+	  title: 'GỬI YÊU CẦU THẤT BẠI',
+	  type: 'success',
+	  showCancelButton: false,
+	  confirmButtonColor: '#3085d6',
+	  cancelButtonColor: '#d33',
+	  confirmButtonText: 'OK !!!'
+	})
+	.then(function () {
+	location.reload();
+	})
+	</script>";
 }
 ?>

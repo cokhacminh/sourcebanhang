@@ -788,5 +788,44 @@ $("form#xacnhanung").submit(function(){
     });
 
     return false;
-});            
+}); 
+//Gửi hỗ trợ
+ function sendticket(value){
+
+                  $.ajax({
+                    url : "../ajax/donhang.php",
+                    type : "post",
+                    dataType:"text",
+                    data : {
+                    	sendticket : value,
+                    	
+                    },
+                    success : function (result){
+                    	$('#div_sendticket').html(result)
+                    }
+                });
+}
+
+$("form#sendticket").submit(function(){
+
+    var formData = new FormData(this);
+
+    $.ajax({
+        url: '../ajax/donhang.php',
+        type: 'POST',
+        data: formData,
+        async: false,
+        success: function (data) {
+             
+           $('.mfp-ready').remove();
+             $('#test_result').html(data);
+
+        },
+        cache: false,
+        contentType: false,
+        processData: false
+    });
+
+    return false;
+});           
 </script>

@@ -47,20 +47,6 @@ while($do = mysql_fetch_array($sql))
 	$diachi = $do['diachi'];
 	$sdt = $do['sdt'];
 	$khachhang = "<div style='text-align:left;font-size:15px;'>Tên : ".$tenkhachhang."<br />"."Đ/c :".$diachi."<br />"."SDT : <b><font color='red' size='4'>".$sdt."</font></b></div>";
-	/*
-	$sanpham = $do['sanpham'];
-	//Duyệt đơn hàng
-	$donhang = "";
-	$tach_a = explode("|", $sanpham);
-	foreach ($tach_a as $array) {
-		$tach_b = explode("-", $array);
-		$key = $tach_b[0];
-		$value = $tach_b[1];
-		$xuly_a = getNameProduct($key);
-		$sanpham_a = $xuly_a." : ".$value." Cái <br />";
-		$donhang.=$sanpham_a;
-	}
-	*/
 	$showdonhang = "";
 	$donhang = $do['donhang'];
 	$tachdonhang = explode("|", $donhang);
@@ -151,7 +137,8 @@ if(($quyenhan['smod']=="0" or $quyenhan['smod'] == "") && ($quyenhan['mod'] =="0
 	if($ghtk =="")
 		$button3 = "<a data-toggle=\"modal\" data-target=\"#Form_edit_donhang\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-success\" onclick=\"suadonhang('{$id}')\"> Sửa</a><a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhang({$id})'>Xóa</a>";
 	elseif($ghtk !="" and $goihang =="0") $button3 = "<a href='#' class='hvr-float mb-xs mt-xs mr-xs btn btn-sm btn-danger' onclick='xoadonhangapi({$id})'>Xóa Đơn</a>";
-	$button = $button1.$button2.$button3;
+	$button4 = "<br><a data-toggle=\"modal\" data-target=\"#Form_guihotro\" class=\"hvr-float modal-with-form mb-xs mt-xs mr-xs btn btn-sm btn-warning\" onclick=\"sendticket('{$id}')\"> YÊU CẦU HỖ TRỢ</a>";
+	$button = $button1.$button2.$button3.$button4;
 	//Button Tạm Ứng
 	if($tamung !=0)
 	{
@@ -392,20 +379,6 @@ while($do = mysql_fetch_array($sql))
 	$diachi = $do['diachi'];
 	$sdt = $do['sdt'];
 	$khachhang = "<div style='text-align:left;font-size:15px;'>Tên : ".$tenkhachhang."<br />"."Đ/c :".$diachi."<br />"."SDT : <b><font color='red' size='4'>".$sdt."</font></b></div>";
-	/*
-	$sanpham = $do['sanpham'];
-	//Duyệt đơn hàng
-	$donhang = "";
-	$tach_a = explode("|", $sanpham);
-	foreach ($tach_a as $array) {
-		$tach_b = explode("-", $array);
-		$key = $tach_b[0];
-		$value = $tach_b[1];
-		$xuly_a = getNameProduct($key);
-		$sanpham_a = $xuly_a." : ".$value." Cái <br />";
-		$donhang.=$sanpham_a;
-	}
-	*/
 	$showdonhang = "";
 	$donhang = $do['donhang'];
 	$tachdonhang = explode("|", $donhang);

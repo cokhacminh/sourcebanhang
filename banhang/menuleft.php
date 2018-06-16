@@ -16,6 +16,12 @@
 										</a>
 									</li>
 									<li>
+										<a href="khieunai">
+											<i class="fa fa-envelope-o" aria-hidden="true"></i>
+											<span>Gửi Khiếu Nại</span>
+										</a>
+									</li>
+									<li>
 										<a href="bangluong">
 											<i class="fa fa-fax" aria-hidden="true"></i>
 											<span>Bảng Lương</span>
@@ -61,6 +67,12 @@
 											</li>
 											
 										</ul>
+									</li>
+									<li>
+												<a href="ticket">
+													 <i class="fa fa-ticket" aria-hidden="true"></i>
+											<span>Ticket</span>
+												</a>
 									</li>
 									
 									
